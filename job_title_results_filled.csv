@@ -1,0 +1,1644 @@
+title_clean,code,framework,method,mapped_label,postings
+data scientist,2511,ESCO/ISCO,exact,data scientist,6963
+data analyst,2511,ESCO/ISCO,exact,data analyst,6872
+data engineer,2511,ESCO/ISCO,exact,data engineer,5466
+software engineer,2512,ESCO/ISCO,exact,software engineer,3688
+machine learning engineer,2511,ESCO/ISCO,exact,machine learning engineer,2519
+business analyst,2421,ESCO/ISCO,exact,business analyst,1903
+ai engineer,3240,ESCO/ISCO,exact,ai engineer,1272
+research scientist,2131,ESCO/ISCO,exact,research scientist,1105
+computer vision engineer,2511,ESCO/ISCO,exact,computer vision engineer,761
+ai specialist,3240,ESCO/ISCO,exact,ai specialist,710
+product manager,1223,ESCO/ISCO,exact,product manager,416
+statistician,2120,ESCO/ISCO,exact,statistician,224
+manager,1120,ESCO/ISCO,exact,manager,183
+engineer,2131,ESCO/ISCO,exact,engineer,135
+cloud engineer,2512,ESCO/ISCO,exact,cloud engineer,134
+director,1120,ESCO/ISCO,exact,director,128
+dba,2521,ESCO/ISCO,exact,dba,122
+project manager,1219,ESCO/ISCO,exact,project manager,114
+business data analyst,2511,ESCO/ISCO,exact,business data analyst,102
+consultant,2132,ESCO/ISCO,exact,consultant,100
+analyst,2120,ESCO/ISCO,exact,analyst,95
+product designer,1223,ESCO/ISCO,exact,product designer,81
+store manager,1420,ESCO/ISCO,exact,store manager,76
+business development manager,1420,ESCO/ISCO,exact,business development manager,60
+account manager,1420,ESCO/ISCO,exact,account manager,55
+engineering manager,1219,ESCO/ISCO,exact,engineering manager,51
+mechanical engineer,2144,ESCO/ISCO,exact,mechanical engineer,51
+business intelligence analyst,2421,ESCO/ISCO,exact,business intelligence analyst,51
+marketing data analyst,3341,ESCO/ISCO,exact,marketing data analyst,48
+electrical engineer,2151,ESCO/ISCO,exact,electrical engineer,44
+sales,4311,ESCO/ISCO,exact,sales,43
+devops engineer,2512,ESCO/ISCO,exact,devops engineer,42
+business development representative,3322,ESCO/ISCO,exact,business development representative,38
+product engineer,2149,ESCO/ISCO,exact,product engineer,34
+accountant,2411,ESCO/ISCO,exact,accountant,29
+research engineer,2149,ESCO/ISCO,exact,research engineer,29
+product marketing manager,1221,ESCO/ISCO,exact,product marketing manager,24
+qa engineer,2149,ESCO/ISCO,exact,qa engineer,23
+sales engineer,2433,ESCO/ISCO,exact,sales engineer,23
+technical,2654,ESCO/ISCO,exact,technical,22
+software developer,2512,ESCO/ISCO,exact,software developer,21
+sales manager,1221,ESCO/ISCO,exact,sales manager,21
+technical assistant,3112,ESCO/ISCO,exact,technical assistant,20
+vice president,1213,ESCO/ISCO,exact,vice president,18
+financial analyst,2413,ESCO/ISCO,exact,financial analyst,18
+marketing assistant,2431,ESCO/ISCO,exact,marketing assistant,17
+executive,1120,ESCO/ISCO,exact,executive,16
+automotive technician,7231,ESCO/ISCO,exact,automotive technician,16
+marketing,1221,ESCO/ISCO,exact,marketing,15
+civil engineer,2142,ESCO/ISCO,exact,civil engineer,15
+project engineer,2142,ESCO/ISCO,exact,project engineer,14
+sales representative,3322,ESCO/ISCO,exact,sales representative,14
+technical writer,2641,ESCO/ISCO,exact,technical writer,14
+business development executive,2431,ESCO/ISCO,exact,business development executive,14
+business consultant,2421,ESCO/ISCO,exact,business consultant,14
+design engineer,2149,ESCO/ISCO,exact,design engineer,14
+network engineer,3513,ESCO/ISCO,exact,network engineer,13
+scrum master,1330,ESCO/ISCO,exact,scrum master,13
+graphic designer,2166,ESCO/ISCO,exact,graphic designer,13
+customer service representative,4225,ESCO/ISCO,exact,customer service representative,13
+assistant manager,3343,ESCO/ISCO,exact,assistant manager,13
+manufacturing engineer,2141,ESCO/ISCO,exact,manufacturing engineer,13
+solution architect,2511,ESCO/ISCO,exact,solution architect,13
+it data analyst,3341,ESCO/ISCO,exact,it data analyst,13
+marketing manager,1221,ESCO/ISCO,exact,marketing manager,12
+researcher,2111,ESCO/ISCO,exact,researcher,12
+key account manager,1420,ESCO/ISCO,exact,key account manager,12
+specialist,2132,ESCO/ISCO,exact,specialist,12
+buyer,3323,ESCO/ISCO,exact,buyer,11
+executive assistant,3343,ESCO/ISCO,exact,executive assistant,11
+test engineer,2149,ESCO/ISCO,exact,test engineer,11
+drone pilot,3153,ESCO/ISCO,exact,drone pilot,11
+ux designer,2166,ESCO/ISCO,exact,ux designer,10
+operations manager,1321,ESCO/ISCO,exact,operations manager,10
+application engineer,2149,ESCO/ISCO,exact,application engineer,10
+environmental scientist,2133,ESCO/ISCO,exact,environmental scientist,10
+sales executive,3322,ESCO/ISCO,exact,sales executive,10
+technician,2240,ESCO/ISCO,exact,technician,9
+court reporter,3343,ESCO/ISCO,exact,court reporter,9
+regional sales manager,1420,ESCO/ISCO,exact,regional sales manager,9
+facilitator,2421,ESCO/ISCO,exact,facilitator,9
+data architect,2521,ESCO/ISCO,exact,data architect,9
+structural engineer,2149,ESCO/ISCO,exact,structural engineer,9
+business operations manager,1321,ESCO/ISCO,exact,business operations manager,8
+administrative assistant,3343,ESCO/ISCO,exact,administrative assistant,8
+quality assurance engineer,2149,ESCO/ISCO,exact,quality assurance engineer,8
+accounting manager,1211,ESCO/ISCO,exact,accounting manager,8
+construction manager,1323,ESCO/ISCO,exact,construction manager,8
+coordinator,1213,ESCO/ISCO,exact,coordinator,8
+general manager,1431,ESCO/ISCO,exact,general manager,8
+finance,1211,ESCO/ISCO,exact,finance,8
+production engineer,2141,ESCO/ISCO,exact,production engineer,7
+architect,2144,ESCO/ISCO,exact,architect,7
+front end developer,2512,ESCO/ISCO,exact,front end developer,7
+finance manager,1211,ESCO/ISCO,exact,finance manager,7
+automation engineer,2141,ESCO/ISCO,exact,automation engineer,7
+software architect,2512,ESCO/ISCO,exact,software architect,7
+devops,2512,ESCO/ISCO,exact,devops,7
+hardware engineer,2152,ESCO/ISCO,exact,hardware engineer,7
+project coordinator,1219,ESCO/ISCO,exact,project coordinator,7
+digital marketing specialist,1221,ESCO/ISCO,exact,digital marketing specialist,6
+estimator,3112,ESCO/ISCO,exact,estimator,6
+database administrator,2521,ESCO/ISCO,exact,database administrator,6
+recruitment consultant,2423,ESCO/ISCO,exact,recruitment consultant,6
+site manager,1321,ESCO/ISCO,exact,site manager,6
+marketing specialist,2431,ESCO/ISCO,exact,marketing specialist,6
+officer,1120,ESCO/ISCO,exact,officer,6
+trainer,2356,ESCO/ISCO,exact,trainer,6
+logistics coordinator,1324,ESCO/ISCO,exact,logistics coordinator,6
+field sales executive,3322,ESCO/ISCO,exact,field sales executive,6
+receptionist,4224,ESCO/ISCO,exact,receptionist,6
+restaurant manager,1412,ESCO/ISCO,exact,restaurant manager,6
+fraud analyst,2411,ESCO/ISCO,exact,fraud analyst,6
+sales data analyst,3341,ESCO/ISCO,exact,sales data analyst,6
+head,1112,ESCO/ISCO,exact,head,5
+designer,2144,ESCO/ISCO,exact,designer,5
+counsel,2611,ESCO/ISCO,exact,counsel,5
+communications,1222,ESCO/ISCO,exact,communications,5
+environmental engineer,2143,ESCO/ISCO,exact,environmental engineer,5
+cloud architect,2512,ESCO/ISCO,exact,cloud architect,5
+sales director,1221,ESCO/ISCO,exact,sales director,5
+power electronics engineer,2152,ESCO/ISCO,exact,power electronics engineer,5
+relationship manager,2412,ESCO/ISCO,exact,relationship manager,5
+product director,1223,ESCO/ISCO,exact,product director,5
+visual designer,2166,ESCO/ISCO,exact,visual designer,5
+process engineer,2141,ESCO/ISCO,exact,process engineer,5
+dermatologist,2212,ESCO/ISCO,exact,dermatologist,5
+laboratory technician,3141,ESCO/ISCO,exact,laboratory technician,5
+insurance,1223,ESCO/ISCO,exact,insurance,5
+event coordinator,3332,ESCO/ISCO,exact,event coordinator,5
+scientist,2131,ESCO/ISCO,exact,scientist,5
+quantity surveyor,2149,ESCO/ISCO,exact,quantity surveyor,5
+quality assurance inspector,7543,ESCO/ISCO,exact,quality assurance inspector,4
+of,1112,ESCO/ISCO,exact,of,4
+technical support,3112,ESCO/ISCO,exact,technical support,4
+area manager,1112,ESCO/ISCO,exact,area manager,4
+copywriter,2431,ESCO/ISCO,exact,copywriter,4
+chemist,2113,ESCO/ISCO,exact,chemist,4
+physician,2211,ESCO/ISCO,exact,physician,4
+business development director,1221,ESCO/ISCO,exact,business development director,4
+communications assistant,3343,ESCO/ISCO,exact,communications assistant,4
+talent acquisition specialist,1212,ESCO/ISCO,exact,talent acquisition specialist,4
+corporate counsel,2611,ESCO/ISCO,exact,corporate counsel,4
+geologist,2114,ESCO/ISCO,exact,geologist,4
+digital marketing manager,1221,ESCO/ISCO,exact,digital marketing manager,4
+teacher,1345,ESCO/ISCO,exact,teacher,4
+supplier quality engineer,2149,ESCO/ISCO,exact,supplier quality engineer,4
+quantitative trader,3311,ESCO/ISCO,exact,quantitative trader,4
+quality inspector,7543,ESCO/ISCO,exact,quality inspector,4
+supervisor,2132,ESCO/ISCO,exact,supervisor,4
+field surveyor,3111,ESCO/ISCO,exact,field surveyor,4
+enterprise architect,2511,ESCO/ISCO,exact,enterprise architect,4
+applications engineer,2512,ESCO/ISCO,exact,applications engineer,4
+geotechnical engineer,2142,ESCO/ISCO,exact,geotechnical engineer,4
+support,3512,ESCO/ISCO,exact,support,4
+production supervisor,3122,ESCO/ISCO,exact,production supervisor,4
+paralegal,3342,ESCO/ISCO,exact,paralegal,4
+compliance manager,2619,ESCO/ISCO,exact,compliance manager,4
+audio,3521,ESCO/ISCO,exact,audio,4
+database developer,2521,ESCO/ISCO,exact,database developer,4
+it business analyst,2511,ESCO/ISCO,exact,it business analyst,4
+credit analyst,3312,ESCO/ISCO,exact,credit analyst,4
+talent acquisition partner,1212,ESCO/ISCO,exact,talent acquisition partner,4
+planner,2164,ESCO/ISCO,exact,planner,4
+electrical design engineer,2151,ESCO/ISCO,exact,electrical design engineer,4
+strategist,2422,ESCO/ISCO,exact,strategist,4
+data warehouse analyst,2511,ESCO/ISCO,exact,data warehouse analyst,4
+system engineer,3513,ESCO/ISCO,exact,system engineer,3
+business developer,2431,ESCO/ISCO,exact,business developer,3
+care coordinator,2635,ESCO/ISCO,exact,care coordinator,3
+it technician,3512,ESCO/ISCO,exact,it technician,3
+speech language pathologist,2266,ESCO/ISCO,exact,speech language pathologist,3
+writer,2431,ESCO/ISCO,exact,writer,3
+scheduler,4416,ESCO/ISCO,exact,scheduler,3
+chemical engineer,2145,ESCO/ISCO,exact,chemical engineer,3
+ui developer,2512,ESCO/ISCO,exact,ui developer,3
+talent acquisition manager,1212,ESCO/ISCO,exact,talent acquisition manager,3
+cost estimator,2411,ESCO/ISCO,exact,cost estimator,3
+data entry clerk,4132,ESCO/ISCO,exact,data entry clerk,3
+maintenance technician,7212,ESCO/ISCO,exact,maintenance technician,3
+autonomy engineer,2152,ESCO/ISCO,exact,autonomy engineer,3
+robotics engineer,2149,ESCO/ISCO,exact,robotics engineer,3
+it project manager,1330,ESCO/ISCO,exact,it project manager,3
+social media specialist,2432,ESCO/ISCO,exact,social media specialist,3
+regulatory affairs specialist,2619,ESCO/ISCO,exact,regulatory affairs specialist,3
+industrial engineer,2141,ESCO/ISCO,exact,industrial engineer,3
+electrician,7411,ESCO/ISCO,exact,electrician,3
+environmental chemist,2113,ESCO/ISCO,exact,environmental chemist,3
+field technician,2433,ESCO/ISCO,exact,field technician,3
+blockchain developer,2512,ESCO/ISCO,exact,blockchain developer,3
+mobile app developer,2514,ESCO/ISCO,exact,mobile app developer,3
+marketing executive,1221,ESCO/ISCO,exact,marketing executive,3
+thermal engineer,2149,ESCO/ISCO,exact,thermal engineer,3
+it engineer,3512,ESCO/ISCO,exact,it engineer,3
+engineering technician,3112,ESCO/ISCO,exact,engineering technician,3
+sales coordinator,1420,ESCO/ISCO,exact,sales coordinator,3
+field engineer,0310,ESCO/ISCO,exact,field engineer,3
+site engineer,2142,ESCO/ISCO,exact,site engineer,3
+systems analyst,2511,ESCO/ISCO,exact,systems analyst,3
+managing director,1120,ESCO/ISCO,exact,managing director,3
+production technician,3113,ESCO/ISCO,exact,production technician,3
+accounting specialist,2411,ESCO/ISCO,exact,accounting specialist,3
+industrial designer,2163,ESCO/ISCO,exact,industrial designer,3
+producer,2642,ESCO/ISCO,exact,producer,3
+investment analyst,2413,ESCO/ISCO,exact,investment analyst,3
+office assistant,3343,ESCO/ISCO,exact,office assistant,3
+landscape architect,2162,ESCO/ISCO,exact,landscape architect,3
+cloud infrastructure engineer,2512,ESCO/ISCO,exact,cloud infrastructure engineer,3
+cybersecurity engineer,2529,ESCO/ISCO,exact,cybersecurity engineer,3
+legal administrative assistant,3342,ESCO/ISCO,exact,legal administrative assistant,3
+supply chain planner,3323,ESCO/ISCO,exact,supply chain planner,3
+technical manager,2654,ESCO/ISCO,exact,technical manager,3
+budget analyst,2411,ESCO/ISCO,exact,budget analyst,3
+welding inspectors,3115,ESCO/ISCO,exact,welding inspectors,3
+team manager,1213,ESCO/ISCO,exact,team manager,3
+demand planner,3323,ESCO/ISCO,exact,demand planner,3
+inventory specialist,4321,ESCO/ISCO,exact,inventory specialist,3
+quality engineer,2149,ESCO/ISCO,exact,quality engineer,3
+data quality expert,2519,ESCO/ISCO,exact,data quality expert,3
+integration engineer,2511,ESCO/ISCO,exact,integration engineer,3
+devsecops engineer,3512,ESCO/ISCO,exact,devsecops engineer,3
+marketing analyst,2431,ESCO/ISCO,exact,marketing analyst,3
+actuarial analyst,2120,ESCO/ISCO,exact,actuarial analyst,3
+statistical data analyst,2120,ESCO/ISCO,exact,statistical data analyst,3
+compensation,2423,ESCO/ISCO,exact,compensation,2
+financial advisor,3311,ESCO/ISCO,exact,financial advisor,2
+quality assurance,1321,ESCO/ISCO,exact,quality assurance,2
+seo specialist,2513,ESCO/ISCO,exact,seo specialist,2
+video editor,2654,ESCO/ISCO,exact,video editor,2
+auditor,2133,ESCO/ISCO,exact,auditor,2
+welder,7212,ESCO/ISCO,exact,welder,2
+accounting clerk,3313,ESCO/ISCO,exact,accounting clerk,2
+corporate secretary,4120,ESCO/ISCO,exact,corporate secretary,2
+assistant teacher,2310,ESCO/ISCO,exact,assistant teacher,2
+derivatives trader,3311,ESCO/ISCO,exact,derivatives trader,2
+occupational therapist,2269,ESCO/ISCO,exact,occupational therapist,2
+content writer,2431,ESCO/ISCO,exact,content writer,2
+retail store manager,1420,ESCO/ISCO,exact,retail store manager,2
+security architect,2529,ESCO/ISCO,exact,security architect,2
+planning engineer,2164,ESCO/ISCO,exact,planning engineer,2
+hr manager,1212,ESCO/ISCO,exact,hr manager,2
+operations supervisor,3134,ESCO/ISCO,exact,operations supervisor,2
+driver,3421,ESCO/ISCO,exact,driver,2
+financial officer,1211,ESCO/ISCO,exact,financial officer,2
+drafter,2611,ESCO/ISCO,exact,drafter,2
+software quality engineer,2149,ESCO/ISCO,exact,software quality engineer,2
+cnc machinist,7223,ESCO/ISCO,exact,cnc machinist,2
+cloud security engineer,2512,ESCO/ISCO,exact,cloud security engineer,2
+embedded software developer,2511,ESCO/ISCO,exact,embedded software developer,2
+area sales manager,1420,ESCO/ISCO,exact,area sales manager,2
+pharmacist,2262,ESCO/ISCO,exact,pharmacist,2
+cto,1330,ESCO/ISCO,exact,cto,2
+special education assistant,5312,ESCO/ISCO,exact,special education assistant,2
+human resources,4416,ESCO/ISCO,exact,human resources,2
+secretary,1112,ESCO/ISCO,exact,secretary,2
+geographic information systems specialist,2165,ESCO/ISCO,exact,geographic information systems specialist,2
+office manager,3341,ESCO/ISCO,exact,office manager,2
+electrical technician,7411,ESCO/ISCO,exact,electrical technician,2
+developer,2351,ESCO/ISCO,exact,developer,2
+web application developer,2513,ESCO/ISCO,exact,web application developer,2
+financial controller,2411,ESCO/ISCO,exact,financial controller,2
+sales consultant,3322,ESCO/ISCO,exact,sales consultant,2
+homologation engineer,2141,ESCO/ISCO,exact,homologation engineer,2
+data steward,4132,ESCO/ISCO,exact,data steward,2
+gis specialist,2165,ESCO/ISCO,exact,gis specialist,2
+quality control inspector,7543,ESCO/ISCO,exact,quality control inspector,2
+commercial manager,1221,ESCO/ISCO,exact,commercial manager,2
+territory manager,3322,ESCO/ISCO,exact,territory manager,2
+inspector,2351,ESCO/ISCO,exact,inspector,2
+archaeologist,2632,ESCO/ISCO,exact,archaeologist,2
+risk assessor,3321,ESCO/ISCO,exact,risk assessor,2
+hydrologist,2114,ESCO/ISCO,exact,hydrologist,2
+policy analyst,2631,ESCO/ISCO,exact,policy analyst,2
+program director,1213,ESCO/ISCO,exact,program director,2
+technical editor,2641,ESCO/ISCO,exact,technical editor,2
+gis analyst,2165,ESCO/ISCO,exact,gis analyst,2
+category manager,1221,ESCO/ISCO,exact,category manager,2
+packaging specialist,2141,ESCO/ISCO,exact,packaging specialist,2
+partner,2611,ESCO/ISCO,exact,partner,2
+cnc operator,7223,ESCO/ISCO,exact,cnc operator,2
+electrical systems engineer,2151,ESCO/ISCO,exact,electrical systems engineer,2
+digital designer,2166,ESCO/ISCO,exact,digital designer,2
+executive coach,2424,ESCO/ISCO,exact,executive coach,2
+business development analyst,2421,ESCO/ISCO,exact,business development analyst,2
+ceo,1120,ESCO/ISCO,exact,ceo,2
+interior designer,3432,ESCO/ISCO,exact,interior designer,2
+cyber security engineer,2529,ESCO/ISCO,exact,cyber security engineer,2
+pharmacy technician,2262,ESCO/ISCO,exact,pharmacy technician,2
+events assistant,3332,ESCO/ISCO,exact,events assistant,2
+credit risk manager,3312,ESCO/ISCO,exact,credit risk manager,2
+logistics analyst,2421,ESCO/ISCO,exact,logistics analyst,2
+fire protection engineer,2149,ESCO/ISCO,exact,fire protection engineer,2
+medical representative,2433,ESCO/ISCO,exact,medical representative,2
+technical director,2654,ESCO/ISCO,exact,technical director,2
+practice manager,3344,ESCO/ISCO,exact,practice manager,2
+cybersecurity analyst,2529,ESCO/ISCO,exact,cybersecurity analyst,2
+credit risk analyst,3312,ESCO/ISCO,exact,credit risk analyst,2
+customer service officer,4225,ESCO/ISCO,exact,customer service officer,2
+regional director,1213,ESCO/ISCO,exact,regional director,2
+global sourcing manager,1324,ESCO/ISCO,exact,global sourcing manager,2
+campaign manager,2432,ESCO/ISCO,exact,campaign manager,2
+electro mechanical engineer,2151,ESCO/ISCO,exact,electro mechanical engineer,2
+underwriter,3311,ESCO/ISCO,exact,underwriter,2
+cook,3434,ESCO/ISCO,exact,cook,2
+electrical engineering technician,3113,ESCO/ISCO,exact,electrical engineering technician,2
+construction engineer,2142,ESCO/ISCO,exact,construction engineer,2
+department manager,1219,ESCO/ISCO,exact,department manager,2
+production assistant,9329,ESCO/ISCO,exact,production assistant,2
+fitter,3214,ESCO/ISCO,exact,fitter,2
+valuer,3315,ESCO/ISCO,exact,valuer,2
+art director,2654,ESCO/ISCO,exact,art director,2
+fashion designer,2163,ESCO/ISCO,exact,fashion designer,2
+hvac engineer,2144,ESCO/ISCO,exact,hvac engineer,2
+business travel consultant,4221,ESCO/ISCO,exact,business travel consultant,2
+building engineer,2142,ESCO/ISCO,exact,building engineer,2
+financial accountant,2411,ESCO/ISCO,exact,financial accountant,2
+trader,3311,ESCO/ISCO,exact,trader,2
+coo,1120,ESCO/ISCO,exact,coo,2
+facility manager,1321,ESCO/ISCO,exact,facility manager,2
+avionics engineer,2144,ESCO/ISCO,exact,avionics engineer,2
+project director,1219,ESCO/ISCO,exact,project director,2
+forecast analyst,1324,ESCO/ISCO,exact,forecast analyst,2
+data warehouse developer,2521,ESCO/ISCO,exact,data warehouse developer,2
+accounts analyst,2411,ESCO/ISCO,exact,accounts analyst,1
+intelligence analyst,2422,ESCO/ISCO,exact,intelligence analyst,1
+market research analyst,2431,ESCO/ISCO,exact,market research analyst,1
+devops specialist,2512,ESCO/ISCO,exact,devops specialist,1
+survey party,3112,ESCO/ISCO,exact,survey party,1
+scenic painter,3432,ESCO/ISCO,exact,scenic painter,1
+cabinet maker,7522,ESCO/ISCO,exact,cabinet maker,1
+criminologist,2632,ESCO/ISCO,exact,criminologist,1
+embedded systems engineer,2511,ESCO/ISCO,exact,embedded systems engineer,1
+psychiatrist,2212,ESCO/ISCO,exact,psychiatrist,1
+internet marketing specialist,2431,ESCO/ISCO,exact,internet marketing specialist,1
+technology officer,1330,ESCO/ISCO,exact,technology officer,1
+flight attendant,5111,ESCO/ISCO,exact,flight attendant,1
+consulting actuary,2120,ESCO/ISCO,exact,consulting actuary,1
+actuary,2120,ESCO/ISCO,exact,actuary,1
+actuarial assistant,3314,ESCO/ISCO,exact,actuarial assistant,1
+compensation consultant,2423,ESCO/ISCO,exact,compensation consultant,1
+advertising campaign manager,1222,ESCO/ISCO,exact,advertising campaign manager,1
+payroll administrator,4313,ESCO/ISCO,exact,payroll administrator,1
+pa,3344,ESCO/ISCO,exact,pa,1
+machinist,7223,ESCO/ISCO,exact,machinist,1
+operator,3131,ESCO/ISCO,exact,operator,1
+software designer,2512,ESCO/ISCO,exact,software designer,1
+engineering project manager,2142,ESCO/ISCO,exact,engineering project manager,1
+managing editor,2642,ESCO/ISCO,exact,managing editor,1
+ecommerce manager,2431,ESCO/ISCO,exact,ecommerce manager,1
+forklift driver,8344,ESCO/ISCO,exact,forklift driver,1
+director of marketing,1221,ESCO/ISCO,exact,director of marketing,1
+bank teller,4211,ESCO/ISCO,exact,bank teller,1
+operations administrator,1321,ESCO/ISCO,exact,operations administrator,1
+head teacher,1345,ESCO/ISCO,exact,head teacher,1
+it support technician,3512,ESCO/ISCO,exact,it support technician,1
+tax analyst,2631,ESCO/ISCO,exact,tax analyst,1
+assembler,6210,ESCO/ISCO,exact,assembler,1
+company secretary,4226,ESCO/ISCO,exact,company secretary,1
+mathematician,2120,ESCO/ISCO,exact,mathematician,1
+physicist,2111,ESCO/ISCO,exact,physicist,1
+nuclear engineer,2149,ESCO/ISCO,exact,nuclear engineer,1
+general,0110,ESCO/ISCO,exact,general,1
+automation systems engineer,2149,ESCO/ISCO,exact,automation systems engineer,1
+security specialist,5414,ESCO/ISCO,exact,security specialist,1
+recruitment officer,2423,ESCO/ISCO,exact,recruitment officer,1
+web developer,2513,ESCO/ISCO,exact,web developer,1
+petroleum engineer,2146,ESCO/ISCO,exact,petroleum engineer,1
+development officer,2631,ESCO/ISCO,exact,development officer,1
+food technologist,2145,ESCO/ISCO,exact,food technologist,1
+training manager,1212,ESCO/ISCO,exact,training manager,1
+market analyst,2431,ESCO/ISCO,exact,market analyst,1
+office administrative assistant,4120,ESCO/ISCO,exact,office administrative assistant,1
+superintendent,1324,ESCO/ISCO,exact,superintendent,1
+construction foreman,3123,ESCO/ISCO,exact,construction foreman,1
+historian,2633,ESCO/ISCO,exact,historian,1
+warehouse manager,1324,ESCO/ISCO,exact,warehouse manager,1
+human resources manager,1212,ESCO/ISCO,exact,human resources manager,1
+loan officer,3312,ESCO/ISCO,exact,loan officer,1
+chiropractic assistant,3259,ESCO/ISCO,exact,chiropractic assistant,1
+carer,5311,ESCO/ISCO,exact,carer,1
+tax expert,2411,ESCO/ISCO,exact,tax expert,1
+hair stylist,5141,ESCO/ISCO,exact,hair stylist,1
+web designer,2166,ESCO/ISCO,exact,web designer,1
+public relations manager,1222,ESCO/ISCO,exact,public relations manager,1
+media consultant,2432,ESCO/ISCO,exact,media consultant,1
+hotel manager,1411,ESCO/ISCO,exact,hotel manager,1
+process engineering technician,3119,ESCO/ISCO,exact,process engineering technician,1
+massage therapist,3255,ESCO/ISCO,exact,massage therapist,1
+staffing manager,1212,ESCO/ISCO,exact,staffing manager,1
+customer relationship manager,1420,ESCO/ISCO,exact,customer relationship manager,1
+contractor,1323,ESCO/ISCO,exact,contractor,1
+legal assistant,3411,ESCO/ISCO,exact,legal assistant,1
+actor,2655,ESCO/ISCO,exact,actor,1
+database architect,2521,ESCO/ISCO,exact,database architect,1
+blockchain engineer,2512,ESCO/ISCO,exact,blockchain engineer,1
+litigation legal assistant,3342,ESCO/ISCO,exact,litigation legal assistant,1
+video producer,2654,ESCO/ISCO,exact,video producer,1
+drain technician,7126,ESCO/ISCO,exact,drain technician,1
+web administrator,3514,ESCO/ISCO,exact,web administrator,1
+claims analyst,3315,ESCO/ISCO,exact,claims analyst,1
+economist,2631,ESCO/ISCO,exact,economist,1
+investigator,3119,ESCO/ISCO,exact,investigator,1
+test manager,2519,ESCO/ISCO,exact,test manager,1
+aws cloud architect,2512,ESCO/ISCO,exact,aws cloud architect,1
+dispatcher,3131,ESCO/ISCO,exact,dispatcher,1
+cloud administrator,2512,ESCO/ISCO,exact,cloud administrator,1
+data administrator,2521,ESCO/ISCO,exact,data administrator,1
+anthropologist,2632,ESCO/ISCO,exact,anthropologist,1
+collection manager,2621,ESCO/ISCO,exact,collection manager,1
+scanning technician,7321,ESCO/ISCO,exact,scanning technician,1
+site superintendent,2141,ESCO/ISCO,exact,site superintendent,1
+biologist,2131,ESCO/ISCO,exact,biologist,1
+geophysicist,2114,ESCO/ISCO,exact,geophysicist,1
+data base administrator,2521,ESCO/ISCO,exact,data base administrator,1
+word processor,4131,ESCO/ISCO,exact,word processor,1
+museum technician,3433,ESCO/ISCO,exact,museum technician,1
+graphic artist,2166,ESCO/ISCO,exact,graphic artist,1
+elearning developer,2359,ESCO/ISCO,exact,elearning developer,1
+records manager,1349,ESCO/ISCO,exact,records manager,1
+cnc programmer,7223,ESCO/ISCO,exact,cnc programmer,1
+assistant,2240,ESCO/ISCO,exact,assistant,1
+software developers,2512,ESCO/ISCO,exact,software developers,1
+manufacturing manager,1321,ESCO/ISCO,exact,manufacturing manager,1
+security manager,1219,ESCO/ISCO,exact,security manager,1
+assembly technician,8219,ESCO/ISCO,exact,assembly technician,1
+financial manager,1211,ESCO/ISCO,exact,financial manager,1
+health care assistant,5321,ESCO/ISCO,exact,health care assistant,1
+investment consultant,2412,ESCO/ISCO,exact,investment consultant,1
+digital sales manager,1221,ESCO/ISCO,exact,digital sales manager,1
+training and development coordinator,1212,ESCO/ISCO,exact,training and development coordinator,1
+quality control manager,1219,ESCO/ISCO,exact,quality control manager,1
+quality supervisor,1321,ESCO/ISCO,exact,quality supervisor,1
+sustainability specialist,1213,ESCO/ISCO,exact,sustainability specialist,1
+water resource engineer,2142,ESCO/ISCO,exact,water resource engineer,1
+technologist,2141,ESCO/ISCO,exact,technologist,1
+inventory controller,4321,ESCO/ISCO,exact,inventory controller,1
+climate change specialist,2143,ESCO/ISCO,exact,climate change specialist,1
+policy researcher,2422,ESCO/ISCO,exact,policy researcher,1
+supply chain analyst,2421,ESCO/ISCO,exact,supply chain analyst,1
+market research specialist,2431,ESCO/ISCO,exact,market research specialist,1
+corporate finance manager,1211,ESCO/ISCO,exact,corporate finance manager,1
+compliance engineer,2149,ESCO/ISCO,exact,compliance engineer,1
+transport planner,2164,ESCO/ISCO,exact,transport planner,1
+warehouse operator,9333,ESCO/ISCO,exact,warehouse operator,1
+sales support assistant,4311,ESCO/ISCO,exact,sales support assistant,1
+football coach,3422,ESCO/ISCO,exact,football coach,1
+plant engineer,2141,ESCO/ISCO,exact,plant engineer,1
+aerodynamics engineer,2144,ESCO/ISCO,exact,aerodynamics engineer,1
+marketing officer,1221,ESCO/ISCO,exact,marketing officer,1
+media planner,2431,ESCO/ISCO,exact,media planner,1
+procurement planner,3323,ESCO/ISCO,exact,procurement planner,1
+customer service executive,2431,ESCO/ISCO,exact,customer service executive,1
+devops consultant,2512,ESCO/ISCO,exact,devops consultant,1
+bus driver,8331,ESCO/ISCO,exact,bus driver,1
+management consultant,2421,ESCO/ISCO,exact,management consultant,1
+environmental analyst,2143,ESCO/ISCO,exact,environmental analyst,1
+optical engineer,2149,ESCO/ISCO,exact,optical engineer,1
+medical assistant,3344,ESCO/ISCO,exact,medical assistant,1
+administrator,1112,ESCO/ISCO,exact,administrator,1
+specialist nurse,2221,ESCO/ISCO,exact,specialist nurse,1
+it consultant,2511,ESCO/ISCO,exact,it consultant,1
+installer,3512,ESCO/ISCO,exact,installer,1
+tester,2519,ESCO/ISCO,exact,tester,1
+ciso,2529,ESCO/ISCO,exact,ciso,1
+electromechanical technician,3113,ESCO/ISCO,exact,electromechanical technician,1
+sales development manager,1420,ESCO/ISCO,exact,sales development manager,1
+training and development manager,1212,ESCO/ISCO,exact,training and development manager,1
+curriculum specialist,2351,ESCO/ISCO,exact,curriculum specialist,1
+technical supervisor,2654,ESCO/ISCO,exact,technical supervisor,1
+web business development manager,2431,ESCO/ISCO,exact,web business development manager,1
+investment specialist,2413,ESCO/ISCO,exact,investment specialist,1
+design architect,2161,ESCO/ISCO,exact,design architect,1
+pathologist,2131,ESCO/ISCO,exact,pathologist,1
+purchasing officer,3323,ESCO/ISCO,exact,purchasing officer,1
+service desk analyst,3341,ESCO/ISCO,exact,service desk analyst,1
+mechatronics engineer,2144,ESCO/ISCO,exact,mechatronics engineer,1
+traffic supervisor,4323,ESCO/ISCO,exact,traffic supervisor,1
+web engineer,2513,ESCO/ISCO,exact,web engineer,1
+home care assistant,3412,ESCO/ISCO,exact,home care assistant,1
+production operator,8142,ESCO/ISCO,exact,production operator,1
+web programmer,2513,ESCO/ISCO,exact,web programmer,1
+commercial officer,1221,ESCO/ISCO,exact,commercial officer,1
+policy officer,2422,ESCO/ISCO,exact,policy officer,1
+interpreter,2643,ESCO/ISCO,exact,interpreter,1
+store supervisor,5222,ESCO/ISCO,exact,store supervisor,1
+digital marketer,2431,ESCO/ISCO,exact,digital marketer,1
+accounting analyst,2411,ESCO/ISCO,exact,accounting analyst,1
+rigger,7119,ESCO/ISCO,exact,rigger,1
+programme manager,1213,ESCO/ISCO,exact,programme manager,1
+process technician,8112,ESCO/ISCO,exact,process technician,1
+construction supervisor,3123,ESCO/ISCO,exact,construction supervisor,1
+avionics maintenance technician,7421,ESCO/ISCO,exact,avionics maintenance technician,1
+food safety auditor,3257,ESCO/ISCO,exact,food safety auditor,1
+process manager,1219,ESCO/ISCO,exact,process manager,1
+electrical supervisor,3123,ESCO/ISCO,exact,electrical supervisor,1
+mechanical supervisor,3122,ESCO/ISCO,exact,mechanical supervisor,1
+admin assistant,3314,ESCO/ISCO,exact,admin assistant,1
+hydrographic surveyor,2165,ESCO/ISCO,exact,hydrographic surveyor,1
+contact center manager,1439,ESCO/ISCO,exact,contact center manager,1
+client relations manager,2431,ESCO/ISCO,exact,client relations manager,1
+client service representative,2431,ESCO/ISCO,exact,client service representative,1
+accounts payable manager,1211,ESCO/ISCO,exact,accounts payable manager,1
+contract specialist,2619,ESCO/ISCO,exact,contract specialist,1
+payroll clerk,4313,ESCO/ISCO,exact,payroll clerk,1
+procurement officer,3323,ESCO/ISCO,exact,procurement officer,1
+hr supervisor,2423,ESCO/ISCO,exact,hr supervisor,1
+system analyst,2511,ESCO/ISCO,exact,system analyst,1
+social media strategist,2432,ESCO/ISCO,exact,social media strategist,1
+animal care worker,5164,ESCO/ISCO,exact,animal care worker,1
+veterinary technician,3240,ESCO/ISCO,exact,veterinary technician,1
+communications officer,1222,ESCO/ISCO,exact,communications officer,1
+cad designer,2163,ESCO/ISCO,exact,cad designer,1
+battery electrical engineer,2151,ESCO/ISCO,exact,battery electrical engineer,1
+paralegal specialist,3411,ESCO/ISCO,exact,paralegal specialist,1
+sales assistant,5223,ESCO/ISCO,exact,sales assistant,1
+vulnerability manager,2529,ESCO/ISCO,exact,vulnerability manager,1
+clinical research,3213,ESCO/ISCO,exact,clinical research,1
+construction project engineer,2142,ESCO/ISCO,exact,construction project engineer,1
+inventory,4321,ESCO/ISCO,exact,inventory,1
+tax specialist,2411,ESCO/ISCO,exact,tax specialist,1
+manufacturing quality technician,3116,ESCO/ISCO,exact,manufacturing quality technician,1
+customer relations manager,1420,ESCO/ISCO,exact,customer relations manager,1
+finance controller,2411,ESCO/ISCO,exact,finance controller,1
+cybersecurity tester,2529,ESCO/ISCO,exact,cybersecurity tester,1
+life underwriter,3321,ESCO/ISCO,exact,life underwriter,1
+purchasing agent,3323,ESCO/ISCO,exact,purchasing agent,1
+cloud developer,2512,ESCO/ISCO,exact,cloud developer,1
+sports coach,3422,ESCO/ISCO,exact,sports coach,1
+microbiologist,2131,ESCO/ISCO,exact,microbiologist,1
+project architect,2161,ESCO/ISCO,exact,project architect,1
+promotions assistant,2431,ESCO/ISCO,exact,promotions assistant,1
+cloud software engineer,2512,ESCO/ISCO,exact,cloud software engineer,1
+credit manager,3312,ESCO/ISCO,exact,credit manager,1
+carpenter,7115,ESCO/ISCO,exact,carpenter,1
+office administrator,3343,ESCO/ISCO,exact,office administrator,1
+investment banking analyst,2413,ESCO/ISCO,exact,investment banking analyst,1
+electromechanical engineer,2151,ESCO/ISCO,exact,electromechanical engineer,1
+safety advisor,3112,ESCO/ISCO,exact,safety advisor,1
+research manager,1223,ESCO/ISCO,exact,research manager,1
+macro analyst,2631,ESCO/ISCO,exact,macro analyst,1
+indirect category manager,1221,ESCO/ISCO,exact,indirect category manager,1
+event,7411,ESCO/ISCO,exact,event,1
+internal auditor,2411,ESCO/ISCO,exact,internal auditor,1
+client relationship manager,2431,ESCO/ISCO,exact,client relationship manager,1
+punch press operator,7223,ESCO/ISCO,exact,punch press operator,1
+packaging engineer,2144,ESCO/ISCO,exact,packaging engineer,1
+digital marketing strategist,2431,ESCO/ISCO,exact,digital marketing strategist,1
+media buyer,2431,ESCO/ISCO,exact,media buyer,1
+cashier,4211,ESCO/ISCO,exact,cashier,1
+prelim,7321,ESCO/ISCO,exact,prelim,1
+resource manager,1324,ESCO/ISCO,exact,resource manager,1
+composite technician,3111,ESCO/ISCO,exact,composite technician,1
+client service manager,2431,ESCO/ISCO,exact,client service manager,1
+bank clerk,4211,ESCO/ISCO,exact,bank clerk,1
+product development engineer,3119,ESCO/ISCO,exact,product development engineer,1
+customer quality engineer,2149,ESCO/ISCO,exact,customer quality engineer,1
+town planner,2164,ESCO/ISCO,exact,town planner,1
+ict engineer,3512,ESCO/ISCO,exact,ict engineer,1
+pest control technician,7544,ESCO/ISCO,exact,pest control technician,1
+market development manager,1221,ESCO/ISCO,exact,market development manager,1
+sales project manager,1221,ESCO/ISCO,exact,sales project manager,1
+tooling engineer,2144,ESCO/ISCO,exact,tooling engineer,1
+warehouse operations manager,1324,ESCO/ISCO,exact,warehouse operations manager,1
+equipment engineer,2144,ESCO/ISCO,exact,equipment engineer,1
+materials engineer,2149,ESCO/ISCO,exact,materials engineer,1
+commissioning engineer,2149,ESCO/ISCO,exact,commissioning engineer,1
+power systems engineer,2149,ESCO/ISCO,exact,power systems engineer,1
+construction project manager,2149,ESCO/ISCO,exact,construction project manager,1
+warehouse supervisor,1324,ESCO/ISCO,exact,warehouse supervisor,1
+telecommunications engineer,2153,ESCO/ISCO,exact,telecommunications engineer,1
+design director,2431,ESCO/ISCO,exact,design director,1
+clinical laboratory scientist,2269,ESCO/ISCO,exact,clinical laboratory scientist,1
+modeller,2651,ESCO/ISCO,exact,modeller,1
+environmental manager,1349,ESCO/ISCO,exact,environmental manager,1
+tooling design engineer,2144,ESCO/ISCO,exact,tooling design engineer,1
+reliability engineer,2149,ESCO/ISCO,exact,reliability engineer,1
+forklift operator,8344,ESCO/ISCO,exact,forklift operator,1
+telecom engineer,2153,ESCO/ISCO,exact,telecom engineer,1
+investment strategy manager,2412,ESCO/ISCO,exact,investment strategy manager,1
+supply chain officer,3343,ESCO/ISCO,exact,supply chain officer,1
+geochemist,2114,ESCO/ISCO,exact,geochemist,1
+crm manager,2431,ESCO/ISCO,exact,crm manager,1
+electrical engineering consultant,2151,ESCO/ISCO,exact,electrical engineering consultant,1
+naval architect,2144,ESCO/ISCO,exact,naval architect,1
+building inspector,3112,ESCO/ISCO,exact,building inspector,1
+ecologist,2133,ESCO/ISCO,exact,ecologist,1
+document controller,1349,ESCO/ISCO,exact,document controller,1
+lab assistant,3141,ESCO/ISCO,exact,lab assistant,1
+professional services consultant,1219,ESCO/ISCO,exact,professional services consultant,1
+component engineer,2149,ESCO/ISCO,exact,component engineer,1
+treasury analyst,1211,ESCO/ISCO,exact,treasury analyst,1
+analog design engineer,2152,ESCO/ISCO,exact,analog design engineer,1
+assistant quantity surveyor,2149,ESCO/ISCO,exact,assistant quantity surveyor,1
+clerk of works,3112,ESCO/ISCO,exact,clerk of works,1
+respiratory therapist,2264,ESCO/ISCO,exact,respiratory therapist,1
+welfare officer,3412,ESCO/ISCO,exact,welfare officer,1
+activity leader,3423,ESCO/ISCO,exact,activity leader,1
+it product manager,1330,ESCO/ISCO,exact,it product manager,1
+driller,7113,ESCO/ISCO,exact,driller,1
+hse officer,1213,ESCO/ISCO,exact,hse officer,1
+building maintenance technician,9622,ESCO/ISCO,exact,building maintenance technician,1
+avionics technician,7421,ESCO/ISCO,exact,avionics technician,1
+qa inspector,7543,ESCO/ISCO,exact,qa inspector,1
+hvac design engineer,2149,ESCO/ISCO,exact,hvac design engineer,1
+global compensation analyst,2423,ESCO/ISCO,exact,global compensation analyst,1
+editor,2641,ESCO/ISCO,exact,editor,1
+contract manager,2619,ESCO/ISCO,exact,contract manager,1
+safety engineer,2149,ESCO/ISCO,exact,safety engineer,1
+event manager,3332,ESCO/ISCO,exact,event manager,1
+manufacturing engineering specialist,2141,ESCO/ISCO,exact,manufacturing engineering specialist,1
+business manager,1213,ESCO/ISCO,exact,business manager,1
+supply chain manager,1324,ESCO/ISCO,exact,supply chain manager,1
+assistant category manager,1221,ESCO/ISCO,exact,assistant category manager,1
+intellectual property consultant,3339,ESCO/ISCO,exact,intellectual property consultant,1
+field sales representative,3322,ESCO/ISCO,exact,field sales representative,1
+compensation manager,2423,ESCO/ISCO,exact,compensation manager,1
+pcb designer,3118,ESCO/ISCO,exact,pcb designer,1
+video,3521,ESCO/ISCO,exact,video,1
+hr director,2423,ESCO/ISCO,exact,hr director,1
+bid manager,1221,ESCO/ISCO,exact,bid manager,1
+graduate data analyst,3341,ESCO/ISCO,exact,graduate data analyst,1
+bioinformatics analyst,2131,ESCO/ISCO,exact,bioinformatics analyst,1
+expert,2263,ESCO/ISCO,exact,expert,1
+media analyst,2632,ESCO/ISCO,exact,media analyst,1
+cost analyst,2411,ESCO/ISCO,exact,cost analyst,1
+data quality specialist,2519,ESCO/ISCO,exact,data quality specialist,1
+security,5414,ESCO/ISCO,exact,security,1
+customer data analyst,3341,ESCO/ISCO,exact,customer data analyst,1
+financial systems analyst,2411,ESCO/ISCO,exact,financial systems analyst,1
+data manager,2521,ESCO/ISCO,exact,data manager,1
+production,43-5061.00,ONET,exact,production,5
+water,17-2051.02,ONET,exact,water,4
+compensation,13-1141.00,ONET,exact,compensation,2
+driver,53-3031.00,ONET,exact,driver,2
+cashiers,41-2011.00,ONET,exact,cashiers,1
+dishwashers,35-9021.00,ONET,exact,dishwashers,1
+civil engineers,17-2051.00,ONET,exact,civil engineers,1
+electrical engineers,17-2071.00,ONET,exact,electrical engineers,1
+registered nurses,29-1141.00,ONET,exact,registered nurses,1
+software developers,15-1252.00,ONET,exact,software developers,1
+cooks,35-2011.00,ONET,exact,cooks,1
+shipping,43-5071.00,ONET,exact,shipping,1
+welding,51-4122.00,ONET,exact,welding,1
+ai,NONE,NONE,llm,NONE,748
+ai consultant,NONE,NONE,llm,NONE,736
+nlp engineer,NONE,NONE,llm,NONE,733
+ai researcher,2149,ESCO,llm,engineer researcher,714
+machine learning operations engineer,2511,ESCO,llm,machine learning engineer,709
+ai product manager,NONE,NONE,llm,NONE,706
+prompt engineer,2149,ESCO,llm,optical engineer,692
+deep learning engineer,NONE,NONE,llm,NONE,667
+program,NONE,NONE,llm,NONE,597
+account executive,NONE,NONE,llm,NONE,214
+enterprise account executive,NONE,NONE,llm,NONE,84
+digital training facility manager,2356,ESCO,llm,digital literacy trainer,78
+part time assistant manager,NONE,NONE,llm,NONE,77
+sales development representative,NONE,NONE,llm,NONE,75
+developer relations,2512,ESCO,llm,solutions developer,68
+backend engineer,NONE,NONE,llm,NONE,67
+performance marketing,NONE,NONE,llm,NONE,63
+care assistant,NONE,NONE,llm,NONE,52
+member of technical,NONE,NONE,llm,NONE,50
+full time assistant manager,NONE,NONE,llm,NONE,48
+financial data analyst,2413,ESCO,llm,financial analyst,46
+customer success manager,NONE,NONE,llm,NONE,40
+full stack engineer,NONE,NONE,llm,NONE,39
+java developer,NONE,NONE,llm,NONE,38
+forward deployed engineer,2512,ESCO,llm,cloud software engineer,37
+quantitative researcher,2112,ESCO,llm,climate research analyst,35
+site reliability engineer,2149,ESCO,llm,reliability engineer,34
+healthcare data analyst,3341,ESCO,llm,graduate data analyst,34
+full stack developer,2512,ESCO,llm,developer of software,33
+doe,NONE,NONE,llm,NONE,33
+program manager,NONE,NONE,llm,NONE,32
+security engineer,2529,ESCO,llm,ict security engineer,32
+frontend engineer,NONE,NONE,llm,NONE,32
+internship,7131,ESCO,llm,ship painter,31
+forward deployed software engineer,2512,ESCO,llm,cloud software engineer,31
+systems engineer,3513,ESCO,llm,system engineer,29
+data analyst i,3341,ESCO,llm,it data analyst,29
+marketing data bi analyst,3341,ESCO,llm,marketing data analyst,28
+shift,NONE,NONE,llm,NONE,27
+solutions architect,2512,ESCO,llm,cloud architect,26
+strategic account executive,NONE,NONE,llm,NONE,23
+mental health therapist,NONE,NONE,llm,NONE,23
+workday reporting data analyst,3341,ESCO,llm,marketing data analyst,23
+rsm,NONE,NONE,llm,NONE,23
+solutions engineer,2512,ESCO,llm,cloud solution engineer,22
+liquor barn,5132,ESCO,llm,flair bartender,22
+red bull student marketeer,NONE,NONE,llm,NONE,22
+group meeting facilitator,NONE,NONE,llm,NONE,21
+infrastructure engineer,2512,ESCO,llm,cloud infrastructure engineer,21
+mid market account executive,NONE,NONE,llm,NONE,21
+operations,8311,ESCO,llm,train operator,20
+deployment strategist,2512,ESCO,llm,cloud deployment specialist,20
+platform engineer,NONE,NONE,llm,NONE,20
+retail merchandising specialist,3432,ESCO,llm,retail merchandising supervisor,20
+shape the future of ai,NONE,NONE,llm,NONE,20
+data analytics engineer,3341,ESCO,llm,senior data analyst,20
+android developer,2166,ESCO,llm,d developer,19
+backend developer,2521,ESCO,llm,database developer,19
+backend software engineer,2512,ESCO,llm,cloud software engineer,19
+full stack software engineer,2512,ESCO,llm,full stack cloud software engineer,19
+disaster recovery and resilience services,2519,ESCO,llm,it disaster recovery analyst,19
+data analyst remote,2511,ESCO,llm,data analyst,19
+fullstack engineer,NONE,NONE,llm,NONE,18
+technical consultant,NONE,NONE,llm,NONE,18
+business,2421,ESCO,llm,business analyst,18
+data governance analyst,3341,ESCO,llm,trainee data analyst,18
+team,NONE,NONE,llm,NONE,17
+embedded software engineer,2511,ESCO,llm,embedded systems engineer,17
+key holder,NONE,NONE,llm,NONE,17
+technical recruiter,NONE,NONE,llm,NONE,16
+ios engineer,3512,ESCO,llm,it engineer,16
+tech,3240,ESCO,llm,ai technician,16
+dynamic pc support,NONE,NONE,llm,NONE,16
+communications coordinator,NONE,NONE,llm,NONE,16
+barclays,NONE,NONE,llm,NONE,16
+account partner,1420,ESCO,llm,trainee account manager,15
+clinical data analyst,NONE,NONE,llm,NONE,15
+entry level data analyst,3341,ESCO,llm,trainee data analyst,15
+net developer,2523,ESCO,llm,network developer,14
+research,2149,ESCO,llm,research engineer,14
+certified industrial hygienists,NONE,NONE,llm,NONE,14
+data quality analyst,3341,ESCO,llm,it data analyst,14
+business development,NONE,NONE,llm,NONE,13
+technical program manager,NONE,NONE,llm,NONE,13
+technical product manager,NONE,NONE,llm,NONE,13
+software development engineer,NONE,NONE,llm,NONE,13
+customer support representative,5111,ESCO,llm,train customer service representative,13
+frontend developer,2512,ESCO,llm,front end developer,13
+remote,5221,ESCO,llm,retailer,13
+strategic development program,1212,ESCO,llm,training development director,13
+binance accelerator program,NONE,NONE,llm,NONE,13
+recruiter,NONE,NONE,llm,NONE,13
+dealership account manager,NONE,NONE,llm,NONE,13
+ai training contributor,NONE,NONE,llm,NONE,13
+business and data analyst,2511,ESCO,llm,business data analyst,13
+remote data analyst,2511,ESCO,llm,data warehouse analyst,13
+quantitative developer,NONE,NONE,llm,NONE,12
+php developer,NONE,NONE,llm,NONE,12
+general application,2149,ESCO,llm,application engineer,12
+fullstack developer,2513,ESCO,llm,developer multimedia,12
+mobile engineer,NONE,NONE,llm,NONE,12
+receiving specialist,NONE,NONE,llm,NONE,12
+marketing coordinator,NONE,NONE,llm,NONE,12
+research data analyst,2632,ESCO,llm,media research analyst,12
+ios developer,NONE,NONE,llm,NONE,11
+construction discipline engineer,2142,ESCO,llm,construction design engineer,11
+paraeducator farley elementary,NONE,NONE,llm,NONE,11
+data reporting analyst,3341,ESCO,llm,marketing data analyst,11
+account development representative,NONE,NONE,llm,NONE,11
+court transcriptionist,NONE,NONE,llm,NONE,11
+firmware engineer,2512,ESCO,llm,engineer software,11
+budget data analyst i,2411,ESCO,llm,budget analyst,11
+transportation data analyst,3341,ESCO,llm,trainee data analyst,11
+engineering,NONE,NONE,llm,NONE,10
+ui,NONE,NONE,llm,NONE,10
+mechanical process engineer,2144,ESCO,llm,mechanical engineer,10
+implementation consultant,NONE,NONE,llm,NONE,10
+solutions consultant,2512,ESCO,llm,cloud solutions consultant,10
+technical support engineer,NONE,NONE,llm,NONE,10
+product owner,NONE,NONE,llm,NONE,10
+commercial account executive,NONE,NONE,llm,NONE,10
+mechanical design engineer,2144,ESCO,llm,optomechanical design engineer,10
+customer support specialist,NONE,NONE,llm,NONE,10
+applied ai engineer,2149,ESCO,llm,applied engineer,10
+founding engineer,NONE,NONE,llm,NONE,10
+data,2529,ESCO,llm,miner data,10
+distributed cloud,2421,ESCO,llm,distribution analyst,10
+software engineer with accounting experience,2512,ESCO,llm,engineer computer software,10
+banking sector,NONE,NONE,llm,NONE,10
+workday reporting,NONE,NONE,llm,NONE,10
+bi data analyst,2511,ESCO,llm,business data analyst,10
+data analyst specialist,3341,ESCO,llm,senior data analyst,10
+paraeducator pauline central primary,NONE,NONE,llm,NONE,9
+subject matter expert,2152,ESCO,llm,predictive maintenance expert,9
+business systems analyst,2511,ESCO,llm,analyst business systems design,9
+fullstack software engineer,2149,ESCO,llm,software quality engineer,9
+dashmart team member,NONE,NONE,llm,NONE,9
+online leads,NONE,NONE,llm,NONE,9
+legal counsel,3411,ESCO,llm,legal aide,9
+procurement specialist,NONE,NONE,llm,NONE,9
+product,2149,ESCO,llm,product engineer,9
+student marketeer,NONE,NONE,llm,NONE,9
+product data analyst,3341,ESCO,llm,graduate data analyst,9
+market research data analyst,2431,ESCO,llm,analyst market research,9
+data management analyst,2421,ESCO,llm,analyst management,9
+technical data analyst,2120,ESCO,llm,statistical data analyst,9
+managed services consultant,NONE,NONE,llm,NONE,8
+c developer,2166,ESCO,llm,d developer,8
+field marketing,NONE,NONE,llm,NONE,8
+industrial hygiene technician,3119,ESCO,llm,industrial engineering technician,8
+product marketing,NONE,NONE,llm,NONE,8
+enterprise account manager,NONE,NONE,llm,NONE,8
+group product manager,NONE,NONE,llm,NONE,8
+product analyst,2431,ESCO,llm,price analyst,8
+operations analyst,2423,ESCO,llm,compensation analyst,8
+data specialist,2165,ESCO,llm,gis data specialist,8
+care professional,31-1122.00,ONET,llm,personal care aides,8
+data science,2511,ESCO,llm,data scientist,8
+cubist quantitative researcher,NONE,NONE,llm,NONE,8
+quantitative analyst,13-2099.01,ONET,llm,financial quantitative analysts,8
+sales admin,NONE,NONE,llm,NONE,8
+propulsion engineer,2141,ESCO,llm,engineer production,8
+scientific data analyst,3341,ESCO,llm,senior data analyst,8
+consumer research data analyst,2431,ESCO,llm,analyst market research,8
+stategy analyst,2422,ESCO,llm,analyst strategy,8
+python developer,NONE,NONE,llm,NONE,7
+training professional,2424,ESCO,llm,corporate professional trainer,7
+android engineer,NONE,NONE,llm,NONE,7
+project controls engineer,2142,ESCO,llm,construction project engineer,7
+customer success,NONE,NONE,llm,NONE,7
+machine learning scientist,NONE,NONE,llm,NONE,7
+customer service,5112,ESCO,llm,railway customer service agent,7
+talent pool,NONE,NONE,llm,NONE,7
+automotive service manager,1439,ESCO,llm,automotive repair shop manager,7
+merchandiser h t,3432,ESCO,llm,graduate retail merchandiser,7
+machine learning researcher,2149,ESCO,llm,engineer researcher,7
+ai research scientist,2511,ESCO,llm,it research scientist,7
+i c engineer,2152,ESCO,llm,c i engineer,7
+growth,NONE,NONE,llm,NONE,7
+analytics engineer,NONE,NONE,llm,NONE,7
+robotics software engineer,2149,ESCO,llm,robotic systems engineer,7
+technical field specialist,NONE,NONE,llm,NONE,7
+ml engineer,NONE,NONE,llm,NONE,7
+mission software engineer,2512,ESCO,llm,software engineer,7
+software engineer i,2512,ESCO,llm,engineer software,7
+data center coordinator,NONE,NONE,llm,NONE,7
+salesforce developer,NONE,NONE,llm,NONE,7
+java engineer,NONE,NONE,llm,NONE,7
+grocery,NONE,NONE,llm,NONE,7
+ai content expert,NONE,NONE,llm,NONE,7
+client partner,NONE,NONE,llm,NONE,7
+bravo data analyst,3341,ESCO,llm,crm data analyst,7
+operations data analyst,3341,ESCO,llm,call centre operations analyst,7
+enterprise data analyst,9623,ESCO,llm,metering data analyst,7
+supply chain data analyst,2421,ESCO,llm,supply chain analyst,7
+data analytics,2511,ESCO,llm,data analyst,7
+recruiting coordinator,NONE,NONE,llm,NONE,6
+engagement manager,1411,ESCO,llm,entertainment manager,6
+react native developer,2513,ESCO,llm,developer internet,6
+civil structural engineer,2142,ESCO,llm,engineer structural,6
+administrative support,NONE,NONE,llm,NONE,6
+ux,NONE,NONE,llm,NONE,6
+linux engineer,NONE,NONE,llm,NONE,6
+customer support,NONE,NONE,llm,NONE,6
+paraeducator pauline south intermediate,NONE,NONE,llm,NONE,6
+paraeducator washburn rural middle school,NONE,NONE,llm,NONE,6
+math teacher washburn rural high school,NONE,NONE,llm,NONE,6
+software engineering manager,NONE,NONE,llm,NONE,6
+program assistant,NONE,NONE,llm,NONE,6
+front end software engineer,2512,ESCO,llm,engineer software,6
+field service engineer,7412,ESCO,llm,lift service engineer,6
+business intelligence,2421,ESCO,llm,business intelligence analyst,6
+frontend software engineer,2511,ESCO,llm,software integration engineer,6
+quality manager,NONE,NONE,llm,NONE,6
+director of sales,NONE,NONE,llm,NONE,6
+merchandiser i t,3432,ESCO,llm,assistant retail merchandiser,6
+experienced,NONE,NONE,llm,NONE,6
+geospatial analyst,2423,ESCO,llm,analyst occupational,6
+customer service advisor,5112,ESCO,llm,railway customer service agent,6
+back end engineer,NONE,NONE,llm,NONE,6
+receiving specialist sales,NONE,NONE,llm,NONE,6
+mapping city,NONE,NONE,llm,NONE,6
+enterprise customer success manager,NONE,NONE,llm,NONE,6
+mid,NONE,NONE,llm,NONE,6
+marketing agent,2431,ESCO,llm,marketing analyst,6
+conveyancing paralegal,NONE,NONE,llm,NONE,6
+gnc engineer,2144,ESCO,llm,wagon engineer,6
+energy data analyst,9623,ESCO,llm,metering data analyst,6
+data visualization specialist,15-1243.01,ONET,llm,data warehousing specialists,6
+process server,NONE,NONE,llm,NONE,6
+management,NONE,NONE,llm,NONE,6
+leadership development,NONE,NONE,llm,NONE,6
+field service technician,7232,ESCO,llm,technician aircraft service,6
+cost manager,NONE,NONE,llm,NONE,6
+territory account executive,NONE,NONE,llm,NONE,6
+health data analyst,3341,ESCO,llm,it data analyst,6
+master data analyst,2521,ESCO,llm,analyst database,6
+finance data analyst,2529,ESCO,llm,analyst data mining,6
+salesforce data analyst,3341,ESCO,llm,sales data analyst,6
+mks,7533,ESCO,llm,sail maker,6
+data analyst wien,2511,ESCO,llm,data analyst,6
+big data,NONE,NONE,llm,NONE,5
+test automation engineer,2149,ESCO,llm,automation systems engineer,5
+angular developer,2514,ESCO,llm,app developer,5
+records management clerk,NONE,NONE,llm,NONE,5
+c,NONE,NONE,llm,NONE,5
+paraeducator washburn rural high school,NONE,NONE,llm,NONE,5
+territory sales manager,NONE,NONE,llm,NONE,5
+machine learning manager,NONE,NONE,llm,NONE,5
+people business partner,2431,ESCO,llm,business developer,5
+technical project manager,1219,ESCO,llm,sustainability project manager,5
+growth marketing manager,NONE,NONE,llm,NONE,5
+database engineer,2511,ESCO,llm,data engineer,5
+application security engineer,2149,ESCO,llm,application engineering specialist,5
+mobile developer,2514,ESCO,llm,mobile app developer,5
+material handler,NONE,NONE,llm,NONE,5
+sap consultant,NONE,NONE,llm,NONE,5
+sre,NONE,NONE,llm,NONE,5
+assistant project manager,NONE,NONE,llm,NONE,5
+game designer,NONE,NONE,llm,NONE,5
+front end engineer,NONE,NONE,llm,NONE,5
+hvac service technician,NONE,NONE,llm,NONE,5
+market strategy and partnerships manager,NONE,NONE,llm,NONE,5
+project controls,2142,ESCO,llm,construction project engineer,5
+v technical consultant,NONE,NONE,llm,NONE,5
+energy project services,3112,ESCO,llm,fire protection service engineer,5
+ground software engineer,2512,ESCO,llm,software engineer,5
+product design,2149,ESCO,llm,product design engineer,5
+sdet,NONE,NONE,llm,NONE,5
+document review level,NONE,NONE,llm,NONE,5
+partner manager,NONE,NONE,llm,NONE,5
+design verification engineer,NONE,NONE,llm,NONE,5
+client solutions manager,NONE,NONE,llm,NONE,5
+risk manager,NONE,NONE,llm,NONE,5
+genai engineer,NONE,NONE,llm,NONE,5
+sap s,NONE,NONE,llm,NONE,5
+strategy operations,2422,ESCO,llm,analyst strategy,5
+engineering director,NONE,NONE,llm,NONE,5
+security analyst,2529,ESCO,llm,analyst security ict,5
+account manager liaison,NONE,NONE,llm,NONE,5
+account representative,3315,ISCO,llm,representative insurance claims,5
+gtm,NONE,NONE,llm,NONE,5
+procurement consultant,NONE,NONE,llm,NONE,5
+data science manager,2621,ESCO,llm,manager data,5
+remote customer support representative,NONE,NONE,llm,NONE,5
+performance marketer,NONE,NONE,llm,NONE,5
+system administrator,NONE,NONE,llm,NONE,5
+remote cyber security data analyst remote,2529,ESCO,llm,analyst security data,5
+planning data analyst,2529,ESCO,llm,analyst data mining,5
+sap master data analyst,2511,ESCO,llm,data storage analyst,5
+accounting data analyst,2411,ESCO,llm,accounting analyst,5
+quality data analyst,3341,ESCO,llm,it data analyst,5
+content data analyst,2511,ESCO,llm,data analyst,5
+reporting analyst,3341,ESCO,llm,call centre reporting analyst,5
+big data analyst,2511,ESCO,llm,data analyst,5
+data analyst technical,2120,ESCO,llm,statistical data analyst,5
+provider data management analyst,2421,ESCO,llm,analyst management,5
+excel expert,NONE,NONE,llm,NONE,5
+data product analyst,3341,ESCO,llm,graduate data analyst,5
+data and reporting analyst,2422,ESCO,llm,monitoring and reporting analyst,5
+data analytics manager,2529,ESCO,llm,analyst data mining,5
+contracts manager,2149,ESCO,llm,contract engineer,4
+agile coach,NONE,NONE,llm,NONE,4
+aws devops engineer,2512,ESCO,llm,devops engineer,4
+technical support specialist,NONE,NONE,llm,NONE,4
+commercial grade dedication engineer,NONE,NONE,llm,NONE,4
+sap abap developer,2514,ESCO,llm,app developer,4
+sales development,NONE,NONE,llm,NONE,4
+react js developer,15-1254.00,ONET,llm,web developers,4
+administrative specialist,NONE,NONE,llm,NONE,4
+mechanical analyst,NONE,NONE,llm,NONE,4
+back end developer,2513,ESCO,llm,web developer,4
+full stack web developer,2513,ESCO,llm,developer web software,4
+founder,NONE,NONE,llm,NONE,4
+payroll specialist,NONE,NONE,llm,NONE,4
+food service substitute districtwide,NONE,NONE,llm,NONE,4
+assistant forensics coach washburn rural high school,NONE,NONE,llm,NONE,4
+assistant track field coach washburn rural high school,NONE,NONE,llm,NONE,4
+food service worker apprentice,NONE,NONE,llm,NONE,4
+community manager,NONE,NONE,llm,NONE,4
+tax manager,NONE,NONE,llm,NONE,4
+vp,NONE,NONE,llm,NONE,4
+customer success executive,NONE,NONE,llm,NONE,4
+cyber security vulnerability researcher,2529,ESCO,llm,cyber security engineer,4
+software engineer in test,2149,ESCO,llm,software quality engineer,4
+project manager assistant,NONE,NONE,llm,NONE,4
+product management,2149,ESCO,llm,product engineer,4
+procurement manager,1324,ESCO,llm,supply chain procurement manager,4
+inside sales,2433,ESCO,llm,sales engineer,4
+hr business partner,NONE,NONE,llm,NONE,4
+pre sales,NONE,NONE,llm,NONE,4
+java,NONE,NONE,llm,NONE,4
+embedded engineer,2511,ESCO,llm,embedded systems engineer,4
+fpga engineer,NONE,NONE,llm,NONE,4
+inbound sales development representative,NONE,NONE,llm,NONE,4
+merchandiser k t,3432,ESCO,llm,graduate retail merchandiser,4
+merchandiser g t,3432,ESCO,llm,graduate retail merchandiser,4
+care assistants,NONE,NONE,llm,NONE,4
+founding software engineer,2512,ESCO,llm,engineer software,4
+strategy and operations,2141,ESCO,llm,trainee operations manager,4
+software development engineer in test,NONE,NONE,llm,NONE,4
+ai research engineer,2149,ESCO,llm,research engineer,4
+team member,9112,ESCO,llm,train cleaning team member,4
+production support,3122,ESCO,llm,railcar production supervisor,4
+software engineering,2512,ESCO,llm,engineer software,4
+analytics manager,13-1111.00,ONET,llm,management analysts,4
+data science level,2511,ESCO,llm,research data scientist,4
+quantitative research,2112,ESCO,llm,climate research analyst,4
+brand designer,NONE,NONE,llm,NONE,4
+account manager dach,NONE,NONE,llm,NONE,4
+deputy manager,NONE,NONE,llm,NONE,4
+unclassified,NONE,NONE,llm,NONE,4
+solution consultant,2512,ESCO,llm,cloud solutions consultant,4
+marketing strategist,NONE,NONE,llm,NONE,4
+data platform engineer,2151,ESCO,llm,home automation platform engineer,4
+commercial finance director,NONE,NONE,llm,NONE,4
+report writer,NONE,NONE,llm,NONE,4
+agenda and materials developer,NONE,NONE,llm,NONE,4
+client delivery,NONE,NONE,llm,NONE,4
+enterprise sales engineer,2434,ESCO,llm,it presales engineer,4
+ai product engineer,2149,ESCO,llm,product engineer,4
+qa,2149,ESCO,llm,qa engineer,4
+sap fi,NONE,NONE,llm,NONE,4
+product support engineer,1223,ESCO,llm,sports product engineer,4
+gtm engineer,NONE,NONE,llm,NONE,4
+qa automation engineer,2141,ESCO,llm,automation engineer,4
+operations specialist in customer support,NONE,NONE,llm,NONE,4
+post close analyst,2421,ESCO,llm,analyst cost,4
+it engineer data lakehouse,2152,ESCO,llm,flight test data engineer,4
+technical operations engineer,NONE,NONE,llm,NONE,4
+founding account executive,NONE,NONE,llm,NONE,4
+receiving,2142,ESCO,llm,civil engineer,4
+analytics consultant,NONE,NONE,llm,NONE,4
+strategic projects,NONE,NONE,llm,NONE,4
+customer support manager,NONE,NONE,llm,NONE,4
+managing consultant,2529,ESCO,llm,consultant data mining,4
+vm,NONE,NONE,llm,NONE,4
+technology and innovation,2356,ESCO,llm,trainer information technology,4
+data bi analyst,2511,ESCO,llm,data analyst,4
+adas bcsc,NONE,NONE,llm,NONE,4
+system architect,2512,ESCO,llm,software architect,4
+electrical engineer i,2151,ESCO,llm,engineer electrical,4
+travel pet insurance sales,NONE,NONE,llm,NONE,4
+go to market,NONE,NONE,llm,NONE,4
+retail data analyst,3341,ESCO,llm,marketing data analyst,4
+sql data analyst,3341,ESCO,llm,sales data analyst,4
+data analyst engineer,2511,ESCO,llm,data engineer,4
+business intelligence data analyst,2421,ESCO,llm,business intelligence analyst,4
+people analytics data analyst,2113,ESCO,llm,analytical chemistry analyst,4
+business analyst financial planning and analysis va remote,2511,ESCO,llm,analyst computer business analysis,4
+quantitative data analyst,13-2099.01,ONET,llm,financial quantitative analysts,4
+data analysis manager,2529,ESCO,llm,analyst data mining,4
+mdm data analyst,2511,ESCO,llm,data analyst,4
+business information analyst,9623,ESCO,llm,billing information analyst,4
+data science analyst,3341,ESCO,llm,senior data analyst,4
+information protection data analyst,15-1212.00,ONET,llm,information security analysts,4
+business intelligence data analytics manager remote east coast,NONE,NONE,llm,NONE,4
+client data analyst,3341,ESCO,llm,customer data analyst,4
+bus info analyst i,NONE,NONE,llm,NONE,4
+power bi data analyst,3341,ESCO,llm,senior data analyst,4
+data analysis,2511,ESCO,llm,data analyst,4
+azure big data environment swat team,NONE,NONE,llm,NONE,4
+data analytics analyst,3341,ESCO,llm,crm data analyst,4
+dwc research,NONE,NONE,llm,NONE,4
+data business analyst,2511,ESCO,llm,business data analyst,4
+benefit program specialist data analysis,13-1161.00,ONET,llm,market research analysts and marketing specialists,4
+data validation,17-2112.02,ONET,llm,validation engineers,4
+data and bi database analyst,2521,ESCO,llm,analyst database,4
+customer success data analyst,3341,ESCO,llm,customer data analyst,4
+clinical research data analyst,NONE,NONE,llm,NONE,4
+strategic planning consultant,NONE,NONE,llm,NONE,3
+growth marketing,3341,ESCO,llm,marketing data analyst,3
+product specialist,NONE,NONE,llm,NONE,3
+outside sales representative,2433,ESCO,llm,representative sales engineering,3
+inside sales representative,NONE,NONE,llm,NONE,3
+aws data engineer,2511,ESCO,llm,data engineer,3
+implementation manager,NONE,NONE,llm,NONE,3
+full stack javascript developer,2152,ESCO,llm,satellite software developer,3
+account director,NONE,NONE,llm,NONE,3
+python,NONE,NONE,llm,NONE,3
+civil structural analyst,NONE,NONE,llm,NONE,3
+accounts payable specialist,NONE,NONE,llm,NONE,3
+safety and health specialist,2149,ESCO,llm,health and safety engineering specialist,3
+d pds structural designer,2142,ESCO,llm,engineer structural,3
+implementation specialist,2149,ESCO,llm,innovation engineer specialist,3
+hr specialist,NONE,NONE,llm,NONE,3
+digital marketing,NONE,NONE,llm,NONE,3
+scala developer,NONE,NONE,llm,NONE,3
+ma,9111,ESCO,llm,maid,3
+reverse engineer,2522,ESCO,llm,engineer server,3
+quantitative research analyst,NONE,NONE,llm,NONE,3
+software development manager,NONE,NONE,llm,NONE,3
+react native engineer,NONE,NONE,llm,NONE,3
+assistant wrestling coach washburn rural high school,NONE,NONE,llm,NONE,3
+custodian substitute districtwide,NONE,NONE,llm,NONE,3
+lunch aide for grades k,NONE,NONE,llm,NONE,3
+school bus para substitute,NONE,NONE,llm,NONE,3
+school bus driver substitute,NONE,NONE,llm,NONE,3
+parent educator districtwide,NONE,NONE,llm,NONE,3
+paraeducator tallgrass student learning center,NONE,NONE,llm,NONE,3
+paraeducator indian hills elementary,NONE,NONE,llm,NONE,3
+food service worker for grades k,NONE,NONE,llm,NONE,3
+lunch aide for grades,NONE,NONE,llm,NONE,3
+assistant softball coach washburn rural high school,NONE,NONE,llm,NONE,3
+activity field trip bus driver usd,NONE,NONE,llm,NONE,3
+school nurse substitute districtwide,NONE,NONE,llm,NONE,3
+part time physical therapist districtwide,NONE,NONE,llm,NONE,3
+paraeducator substitute districtwide,NONE,NONE,llm,NONE,3
+social worker indian hills elementary,NONE,NONE,llm,NONE,3
+paraeducator substitute jay shideler elementary,NONE,NONE,llm,NONE,3
+paraeducator wanamaker elementary,NONE,NONE,llm,NONE,3
+customer service rep,5112,ESCO,llm,railway customer service agent,3
+paraeducator auburn elementary,NONE,NONE,llm,NONE,3
+school bus para,5311,ESCO,llm,school bus aide,3
+music aide wanamaker elementary,NONE,NONE,llm,NONE,3
+substitute teachers usd,NONE,NONE,llm,NONE,3
+school bus driver,5165,ESCO,llm,bus driver training instructor,3
+executive director,NONE,NONE,llm,NONE,3
+sales enablement manager,NONE,NONE,llm,NONE,3
+machine learning architect,2511,ESCO,llm,machine learning engineer,3
+business specialist,NONE,NONE,llm,NONE,3
+publication graphic specialist,NONE,NONE,llm,NONE,3
+recruitment specialist,NONE,NONE,llm,NONE,3
+sales field agent,4221,ESCO,llm,railway sales agent,3
+aerospace medicine research subject,2144,ESCO,llm,aerospace project engineer,3
+it support specialist,NONE,NONE,llm,NONE,3
+client success manager,NONE,NONE,llm,NONE,3
+test,NONE,NONE,llm,NONE,3
+general interest join our talent community,2635,ESCO,llm,community liaison worker,3
+expression of interest,NONE,NONE,llm,NONE,3
+work control planner,NONE,NONE,llm,NONE,3
+automotive account executive,NONE,NONE,llm,NONE,3
+br,5132,ESCO,llm,barmaid,3
+research analyst,NONE,NONE,llm,NONE,3
+data product manager,1330,ESCO,llm,manager data processing,3
+software,NONE,NONE,llm,NONE,3
+strategy operations manager,NONE,NONE,llm,NONE,3
+trading desk operations engineer,NONE,NONE,llm,NONE,3
+accounting,2411,ESCO,llm,accounting analyst,3
+hr compensation consultant,NONE,NONE,llm,NONE,3
+pricing analyst,2431,ESCO,llm,price analyst,3
+assistant store manager,1420,ESCO,llm,manager chain store,3
+sales operations,NONE,NONE,llm,NONE,3
+les schwab,NONE,NONE,llm,NONE,3
+java backend engineer,NONE,NONE,llm,NONE,3
+carrier account representative,3315,ESCO,llm,claims representative,3
+customer service agent,5112,ESCO,llm,railway customer service agent,3
+hardware test engineer,2152,ESCO,llm,it hardware engineer,3
+gameplay programmer,2513,ESCO,llm,programmer html,3
+team leader,NONE,NONE,llm,NONE,3
+c software engineer,2512,ESCO,llm,engineer software,3
+founding product engineer,2149,ESCO,llm,product engineer,3
+technical architect,NONE,NONE,llm,NONE,3
+product expert,NONE,NONE,llm,NONE,3
+client strategy,2421,ESCO,llm,business strategy analyst,3
+flight software engineer,2149,ESCO,llm,software quality engineer,3
+cad engineer,NONE,NONE,llm,NONE,3
+forward deployed ai engineer,2149,ESCO,llm,applied research engineer,3
+spontaneous application,NONE,NONE,llm,NONE,3
+enterprise account partner,1420,ESCO,llm,trainee account manager,3
+hvac installer,NONE,NONE,llm,NONE,3
+distinguished engineer,NONE,NONE,llm,NONE,3
+distributed systems engineer,NONE,NONE,llm,NONE,3
+corporate account executive,NONE,NONE,llm,NONE,3
+network engineer in solution test,2523,ESCO,llm,networks engineer,3
+qa test engineer,2149,ESCO,llm,test engineer,3
+purchase executive only person with disability,NONE,NONE,llm,NONE,3
+client service,NONE,NONE,llm,NONE,3
+software engineer only person with disability,2511,ESCO,llm,software integration engineer,3
+aem full stack developer only for person with disability,NONE,NONE,llm,NONE,3
+go developer,2512,ESCO,llm,iot developer,3
+cno developer,NONE,NONE,llm,NONE,3
+certified industrial hygienist,2141,ESCO,llm,industrial engineers,3
+sales account executive,NONE,NONE,llm,NONE,3
+certified nurse assistant,NONE,NONE,llm,NONE,3
+certified medical assistant,3251,ESCO,llm,dental chairside assistant,3
+customer engineer,2152,ESCO,llm,computer engineer,3
+certified data analyst,3341,ESCO,llm,crm data analyst,3
+help desk support service specialist,NONE,NONE,llm,NONE,3
+program specialist,NONE,NONE,llm,NONE,3
+quality assurance specialist,2519,ESCO,llm,data quality specialist,3
+training specialist,5164,ESCO,llm,dog training specialist,3
+mts,NONE,NONE,llm,NONE,3
+project managers,NONE,NONE,llm,NONE,3
+quantum scientist,NONE,NONE,llm,NONE,3
+business controller,NONE,NONE,llm,NONE,3
+solution engineer,2512,ESCO,llm,cloud solution engineer,3
+fpga design engineer,2149,ESCO,llm,design engineer,3
+field application engineer,2149,ESCO,llm,application engineer,3
+strategy director,NONE,NONE,llm,NONE,3
+care manager,NONE,NONE,llm,NONE,3
+co opt,2512,ESCO,llm,cloud devops,3
+environmental data analyst,2143,ESCO,llm,analyst environmental,3
+energy policy analyst,3311,ESCO,llm,energy stock analyst,3
+energy systems modeler,2149,ESCO,llm,energy systems engineer,3
+bi developer,2166,ESCO,llm,d developer,3
+customer support coach,3512,ESCO,llm,consultant software support,3
+technical account manager,3115,ESCO,llm,engineering technical manager,3
+drone pilot for ai training and data collection,NONE,NONE,llm,NONE,3
+uas drone pilot,NONE,NONE,llm,NONE,3
+entry level ai data rater,NONE,NONE,llm,NONE,3
+data consultant,2529,ESCO,llm,consultant data mining,3
+cost management,13-1111.00,ONET,llm,management analysts,3
+sap mm consultant,NONE,NONE,llm,NONE,3
+python software engineer,2512,ESCO,llm,engineer software,3
+partnerships,NONE,NONE,llm,NONE,3
+frontier agents engineer,2433,ISCO,llm,agent sales engineering,3
+servicenow developer,NONE,NONE,llm,NONE,3
+customer support assistant,NONE,NONE,llm,NONE,3
+cloud platform engineer,2512,ESCO,llm,cloud network engineer,3
+java fullstack developer,NONE,NONE,llm,NONE,3
+scientific software engineer,2512,ESCO,llm,software engineer,3
+founding product designer,2149,ESCO,llm,product design engineer,3
+crypto analyst,NONE,NONE,llm,NONE,3
+software engineer backend,2512,ESCO,llm,cloud software engineer,3
+founding designer,NONE,NONE,llm,NONE,3
+developer relations engineer,NONE,NONE,llm,NONE,3
+product security engineer,2529,ESCO,llm,ict security engineer,3
+sap fico consultant,NONE,NONE,llm,NONE,3
+executive distribution,2149,ESCO,llm,distribution engineer,3
+tester manualny,NONE,NONE,llm,NONE,3
+municipal engineer,NONE,NONE,llm,NONE,3
+applied value engineer,2149,ESCO,llm,applied engineer,3
+founding backend engineer,NONE,NONE,llm,NONE,3
+cloud solution architect,2512,ESCO,llm,cloud architect,3
+chapter qa,NONE,NONE,llm,NONE,3
+deployed engineer,2512,ESCO,llm,devops engineer,3
+ml research engineer,2149,ESCO,llm,research engineer,3
+service account coordinator,3154,ESCO,llm,airport operations coordinator,3
+strategic finance,2422,ESCO,llm,analyst strategy,3
+binance accelerator programm,NONE,NONE,llm,NONE,3
+customer service specialist,NONE,NONE,llm,NONE,3
+product operations,NONE,NONE,llm,NONE,3
+project controls consultant,NONE,NONE,llm,NONE,3
+security software engineer,2149,ESCO,llm,software quality engineer,3
+field cto,NONE,NONE,llm,NONE,3
+director of engineering,NONE,NONE,llm,NONE,3
+delivery manager,NONE,NONE,llm,NONE,3
+marketing operations manager,NONE,NONE,llm,NONE,3
+software test engineer,2512,ESCO,llm,engineer software,3
+technical customer success manager,NONE,NONE,llm,NONE,3
+post silicon validation engineer,17-2112.02,ONET,llm,validation engineers,3
+supplier,NONE,NONE,llm,NONE,3
+project civil engineer,2142,ESCO,llm,civil engineer,3
+ux researcher,NONE,NONE,llm,NONE,3
+director of product management,NONE,NONE,llm,NONE,3
+strategic account manager,1420,ESCO,llm,trainee sales account manager,3
+sourcing manager,NONE,NONE,llm,NONE,3
+assistant site manager,NONE,NONE,llm,NONE,3
+risk management,NONE,NONE,llm,NONE,3
+quality assurance pm,2149,ESCO,llm,software quality assurance engineer,3
+security infrastructure engineer,15-1299.05,ONET,llm,information security engineers,3
+project controls analyst,2413,ESCO,llm,senior analyst control,3
+fp a,NONE,NONE,llm,NONE,3
+technical artist,NONE,NONE,llm,NONE,3
+data modeler,2521,ESCO,llm,data model designer,3
+investment data analyst,2413,ESCO,llm,analyst investment,3
+remote data analysts,NONE,NONE,llm,NONE,3
+data strategy analyst,2511,ESCO,llm,data storage analyst,3
+data analyst bi developer,NONE,NONE,llm,NONE,3
+hr data analyst,2511,ESCO,llm,data analyst,3
+data visualization analyst,3341,ESCO,llm,it data analyst,3
+data analyst and statistics tutoring specialist,2120,ESCO,llm,statistical data analyst,3
+data quality analyst i,3341,ESCO,llm,it data analyst,3
+business analytics analyst,2421,ESCO,llm,business analyst,3
+health care data analyst,NONE,NONE,llm,NONE,3
+data analyst um evaluations,NONE,NONE,llm,NONE,3
+tableau data analyst,2511,ESCO,llm,data analyst,3
+food security survey data analyst,2529,ESCO,llm,analyst security data,3
+xmg business intelligence engineer graduate data analyst,2421,ESCO,llm,business intelligence analyst,3
+data bi analyst i,3341,ESCO,llm,it data analyst,3
+transportation accountant data analyst,2413,ESCO,llm,investment accounting analyst,3
+data analyst with sql,2511,ESCO,llm,data analyst,3
+remote clinical data analyst,NONE,NONE,llm,NONE,3
+data project analyst,3341,ESCO,llm,it data analyst,3
+business data analyst with wealth management experience,2511,ESCO,llm,business data analyst,3
+edi integration data analyst,9623,ESCO,llm,metering data analyst,3
+data science specialist,NONE,NONE,llm,NONE,3
+health care data conversion analyst,NONE,NONE,llm,NONE,3
+internal audit data analyst,NONE,NONE,llm,NONE,3
+data and insights analyst,2529,ESCO,llm,analyst data mining,3
+data analyst remote from,9623,ESCO,llm,metering data analyst,3
+data analyst manager,2529,ESCO,llm,analyst data mining,3
+data governance specialist,2165,ESCO,llm,gis data specialist,3
+pharmacy data analyst,2131,ESCO,llm,pharmacology analyst,3
+scientific data analyst i,3341,ESCO,llm,senior data analyst,3
+financial,2413,ESCO,llm,financial analyst,3
+online data analyst,2511,ESCO,llm,data analyst,3
+saas support data analyst,3512,ESCO,llm,analyst desktop support,3
+data warehouse and business analytics developer,2521,ESCO,llm,data warehouse developer,3
+amshield data analyst,2511,ESCO,llm,data analyst,3
+licensed practical nurse,NONE,NONE,llm,NONE,2
+test job,2519,ESCO,llm,tester software,2
+data center engineer,2149,ESCO,llm,contract engineer,2
+client solutions,NONE,NONE,llm,NONE,2
+product support specialist,NONE,NONE,llm,NONE,2
+operations business analyst,2412,ESCO,llm,business valuation analyst,2
+are you looking for something rewarding,3521,ESCO,llm,recording studio audio engineer,2
+stuff,5131,ESCO,llm,wait staff,2
+golang developer,NONE,NONE,llm,NONE,2
+front end application developer,2513,ESCO,llm,developer internet applications,2
+laravel developer,NONE,NONE,llm,NONE,2
+php,NONE,NONE,llm,NONE,2
+python engineer,NONE,NONE,llm,NONE,2
+business analysis,2421,ESCO,llm,business analyst,2
+construction field superintendent,1324,ESCO,llm,superintendent rail operations,2
+construction rigging engineer,2142,ESCO,llm,engineer construction,2
+instrumentation and control engineer,2152,ESCO,llm,control and instrumentation engineer,2
+field procurement engineer,NONE,NONE,llm,NONE,2
+conduct of operations advisor,NONE,NONE,llm,NONE,2
+construction safety technician,3119,ESCO,llm,technician engineering safety,2
+property specialist,NONE,NONE,llm,NONE,2
+simulator training professional,2359,ESCO,llm,correctional training instructor,2
+technical trainer,3423,ESCO,llm,trainer physical,2
+outage coordinator,NONE,NONE,llm,NONE,2
+mechanical maintenance specialist,7233,ESCO,llm,mechanic plant maintenance,2
+operations project manager,1324,ESCO,llm,rail operations manager,2
+industrial hygienist,2141,ESCO,llm,industrial engineers,2
+scheduling engineer,3121,ESCO,llm,mine scheduling engineer,2
+cyber security analyst,2529,ESCO,llm,cybersecurity analyst,2
+d plant designer,7316,ESCO,llm,china designer painter,2
+operations support specialist,NONE,NONE,llm,NONE,2
+general accountant,2411,ESCO,llm,accounting analyst,2
+accountant i,2411,ESCO,llm,accounts analyst,2
+account coordinator,1222,ESCO,llm,campaigns coordinator,2
+sales operations manager,NONE,NONE,llm,NONE,2
+behavioral economist,2632,ESCO,llm,behavioural scientist,2
+dot net developer,2513,ESCO,llm,developer internet,2
+fullstack developer nodejs,NONE,NONE,llm,NONE,2
+content writers,NONE,NONE,llm,NONE,2
+part time assistant store manager,NONE,NONE,llm,NONE,2
+substitute teacher,5312,ESCO,llm,aide teacher s,2
+general interest application,2513,ESCO,llm,developer internet applications,2
+game developer,2513,ESCO,llm,developer video game,2
+customer experience representative,4225,ESCO,llm,complaint representative,2
+plc programmer,NONE,NONE,llm,NONE,2
+retail motorcycle sales technician,NONE,NONE,llm,NONE,2
+quantitative researcher futures,NONE,NONE,llm,NONE,2
+controls engineer,2149,ESCO,llm,contractor engineer,2
+linux enablement,NONE,NONE,llm,NONE,2
+wcube solutions,NONE,NONE,llm,NONE,2
+category sourcing executive,NONE,NONE,llm,NONE,2
+technical customer service,NONE,NONE,llm,NONE,2
+software product manager,1330,ESCO,llm,software manager,2
+php laravel developer,NONE,NONE,llm,NONE,2
+business development rep,2431,ESCO,llm,business developer,2
+odoo developer,NONE,NONE,llm,NONE,2
+application support engineer,NONE,NONE,llm,NONE,2
+internship in logistics department,13-1081.01,ONET,llm,logistics engineers,2
+virtual internship social media marketer,NONE,NONE,llm,NONE,2
+library clerk washburn rural high school,NONE,NONE,llm,NONE,2
+paraeducator substitute indian hills elementary,NONE,NONE,llm,NONE,2
+cloud solutions architect,2512,ESCO,llm,cloud architect,2
+commercial enterprise account executive,2431,ESCO,llm,commercial product price analyst,2
+design manager,NONE,NONE,llm,NONE,2
+large enterprise account executive,NONE,NONE,llm,NONE,2
+regular,5221,ESCO,llm,retailer,2
+technical product marketing manager,NONE,NONE,llm,NONE,2
+hr coordinator,1212,ESCO,llm,training coordinator,2
+account based marketing manager,1420,ESCO,llm,trainee sales account manager,2
+demand generation strategist,NONE,NONE,llm,NONE,2
+salesforce business analyst,2421,ESCO,llm,business research analyst,2
+change management specialist,NONE,NONE,llm,NONE,2
+subject matter expert i,2152,ESCO,llm,expert in predictive maintenance,2
+analyst i,NONE,NONE,llm,NONE,2
+microsoft and support services engineer,NONE,NONE,llm,NONE,2
+office admin,NONE,NONE,llm,NONE,2
+biological sciences geneticist,2131,ESCO,llm,genetics scientist,2
+medical records specialist,NONE,NONE,llm,NONE,2
+manufacturing it application developer,2514,ESCO,llm,ict application developer,2
+trading operations analyst,15-2031.00,ONET,llm,operations research analysts,2
+cyber security researcher,2529,ESCO,llm,cyber security engineer,2
+cyber threat investigator,NONE,NONE,llm,NONE,2
+cybersecurity penetration test specialist,NONE,NONE,llm,NONE,2
+inbound business development representative,NONE,NONE,llm,NONE,2
+project management specialist,NONE,NONE,llm,NONE,2
+unsolicited application,NONE,NONE,llm,NONE,2
+database analyst,2521,ESCO,llm,analyst database,2
+legal,NONE,NONE,llm,NONE,2
+v bat air vehicle operator,NONE,NONE,llm,NONE,2
+commercial contracts specialist,NONE,NONE,llm,NONE,2
+commercial sales manager,NONE,NONE,llm,NONE,2
+rfq r,NONE,NONE,llm,NONE,2
+c engineer,2151,ESCO,llm,emc engineer,2
+startup and commissioning support consultant,3512,ESCO,llm,consultant software support,2
+portfolio manager,NONE,NONE,llm,NONE,2
+startup and commissioning testing support consultant,2149,ESCO,llm,test and commissioning engineer,2
+content marketing specialist,NONE,NONE,llm,NONE,2
+civil structural engineer ds,2142,ESCO,llm,engineer structural,2
+digital marketing expert,2431,ESCO,llm,marketing analyst,2
+backend java engineer,NONE,NONE,llm,NONE,2
+conduct of operations specialist,NONE,NONE,llm,NONE,2
+contractor assurance specialist,NONE,NONE,llm,NONE,2
+mid back end engineer java or kotlin,NONE,NONE,llm,NONE,2
+software developer engineer,2512,ESCO,llm,software developer,2
+integration architect,2511,ESCO,llm,ict integration engineers,2
+amadeus travel ticketing,2320,ESCO,llm,trainer in travel and tourism,2
+assistant quality assurance,4312,ESCO,llm,assistant insurance claims,2
+data migration consultant,2529,ESCO,llm,consultant data mining,2
+linux systems administrator,NONE,NONE,llm,NONE,2
+accounts executive,NONE,NONE,llm,NONE,2
+embedded application software engineer,2514,ESCO,llm,application software engineer,2
+javascript engineer,NONE,NONE,llm,NONE,2
+back end software engineer,2512,ESCO,llm,cloud software engineer,2
+recruitment co ordinator,2143,ESCO,llm,trainee recycling co ordinator,2
+autonomous vehicle operator,NONE,NONE,llm,NONE,2
+full cycle recruiter,7234,ESCO,llm,repairer pedal cycle,2
+manufacturing,2141,ESCO,llm,engineer manufacturing,2
+deputy project manager,2142,ESCO,llm,engineering project manager,2
+sales support,NONE,NONE,llm,NONE,2
+customer care manager,NONE,NONE,llm,NONE,2
+human resource manager,1420,ESCO,llm,manager chain store,2
+counter salesperson,NONE,NONE,llm,NONE,2
+environmental biologist,NONE,NONE,llm,NONE,2
+physician liaison,NONE,NONE,llm,NONE,2
+environmental archaeologist,2143,ESCO,llm,analyst environmental,2
+recruiting,NONE,NONE,llm,NONE,2
+regulatory specialist,2619,ESCO,llm,regulatory affairs specialist,2
+technical operations analyst,2120,ESCO,llm,analyst operations research,2
+e commerce shipping clerk north versailles,NONE,NONE,llm,NONE,2
+helix ai engineer,3240,ESCO,llm,ai engineer,2
+it support,3512,ESCO,llm,analyst pc support,2
+subject manager custom computer programming services,NONE,NONE,llm,NONE,2
+maintenance mechanic,7412,ESCO,llm,lift maintenance mechanic,2
+full stack,NONE,NONE,llm,NONE,2
+cloud security architect,2512,ESCO,llm,cloud architect,2
+sharepoint developer,2512,ESCO,llm,developer software,2
+tech java,NONE,NONE,llm,NONE,2
+regional account executive,NONE,NONE,llm,NONE,2
+nepa project manager,NONE,NONE,llm,NONE,2
+customer success engineer,NONE,NONE,llm,NONE,2
+performance engineer,NONE,NONE,llm,NONE,2
+smart contract engineer,2149,ESCO,llm,contract engineer,2
+machine learning platform engineer,2511,ESCO,llm,machine learning engineer,2
+residential service plumber,NONE,NONE,llm,NONE,2
+software backend engineer,2512,ESCO,llm,cloud software engineer,2
+registered care manager,NONE,NONE,llm,NONE,2
+fund attorney,NONE,NONE,llm,NONE,2
+merchandiser j t,3432,ESCO,llm,graduate retail merchandiser,2
+deep learning compiler engineer,NONE,NONE,llm,NONE,2
+ai infrastructure engineer,2512,ESCO,llm,cloud infrastructure engineer,2
+production support analyst,3512,ESCO,llm,analyst application support,2
+data engineering,2511,ESCO,llm,data engineer,2
+low observables engineer,NONE,NONE,llm,NONE,2
+civil project engineer,2142,ESCO,llm,civil engineer,2
+azure cloud architect,2512,ESCO,llm,aws cloud architect,2
+azure cloud engineer,2512,ESCO,llm,cloud engineer,2
+open deck carrier specialist,NONE,NONE,llm,NONE,2
+programmatic media,NONE,NONE,llm,NONE,2
+advisory director,2619,ESCO,llm,data protection advisor,2
+client strategy director,NONE,NONE,llm,NONE,2
+ai scientist,2511,ESCO,llm,data scientist,2
+netsuite developer,NONE,NONE,llm,NONE,2
+programmatic trading specialist,NONE,NONE,llm,NONE,2
+seo strategist,NONE,NONE,llm,NONE,2
+semiconductor safety engineer,2152,ESCO,llm,engineer semiconductors,2
+administrative business partner,NONE,NONE,llm,NONE,2
+strategic sourcing manager,NONE,NONE,llm,NONE,2
+executive manager,NONE,NONE,llm,NONE,2
+tech manager,NONE,NONE,llm,NONE,2
+geospatial communications,2632,ESCO,llm,communications scientist,2
+geospatial web,NONE,NONE,llm,NONE,2
+enterprise sales executive,NONE,NONE,llm,NONE,2
+hvac outside sales representative,2433,ESCO,llm,representative sales engineering,2
+customer support agent,NONE,NONE,llm,NONE,2
+channel sales engineer,2433,ESCO,llm,coach sales engineer,2
+case team assistant,3251,ESCO,llm,dental chairside assistant,2
+product operations specialist,NONE,NONE,llm,NONE,2
+flight dynamics engineer,3153,ESCO,llm,engineer flight,2
+svp,NONE,NONE,llm,NONE,2
+ma auditor,NONE,NONE,llm,NONE,2
+machine learning performance engineer,2511,ESCO,llm,machine learning engineer,2
+deal operations administrator,2521,ESCO,llm,administrator data,2
+enterprise sales development representative,NONE,NONE,llm,NONE,2
+discovery collection specialist,NONE,NONE,llm,NONE,2
+strategic enterprise account executive,NONE,NONE,llm,NONE,2
+machine learning,2511,ESCO,llm,machine learning engineer,2
+account executive smb france,NONE,NONE,llm,NONE,2
+small business account executive dach,NONE,NONE,llm,NONE,2
+team member electrical,2151,ESCO,llm,engineer systems electrical,2
+growth manager,NONE,NONE,llm,NONE,2
+systems administrator,NONE,NONE,llm,NONE,2
+propulsion test engineer,2141,ESCO,llm,productions engineer,2
+network engineer only person with disability,2523,ESCO,llm,networks engineer,2
+software engineer c,2512,ESCO,llm,engineer software,2
+business scientist,2631,ESCO,llm,business research scientist,2
+growth specialist,NONE,NONE,llm,NONE,2
+construction discipline engineer field engineer civil,1324,ESCO,llm,mining construction and civil engineering machinery distribution manager,2
+machine learning infrastructure engineer,2511,ESCO,llm,machine learning engineer,2
+technical solutions manager,NONE,NONE,llm,NONE,2
+bring your energy,NONE,NONE,llm,NONE,2
+business support analyst,2423,ESCO,llm,corporate business analyst,2
+power bi developer,NONE,NONE,llm,NONE,2
+automotive master technician,7132,ESCO,llm,automotive paint technician,2
+internet rater,NONE,NONE,llm,NONE,2
+enterprise sales,41-9031.00,ONET,llm,sales engineers,2
+cno engineer,NONE,NONE,llm,NONE,2
+cryptoanalyst level,NONE,NONE,llm,NONE,2
+golang software engineer,2512,ESCO,llm,engineer software,2
+clinical care navigator,5321,ESCO,llm,aide nursing clinic,2
+digital signal processing engineer,2146,ESCO,llm,senior processing engineer,2
+information review and release analyst,15-1212.00,ONET,llm,information security analysts,2
+mission manager,1212,ESCO,llm,training manager,2
+payload specialist,NONE,NONE,llm,NONE,2
+qa team,NONE,NONE,llm,NONE,2
+kernel software developer,2513,ESCO,llm,developer internet software,2
+operator technician,NONE,NONE,llm,NONE,2
+cubist portfolio manager,NONE,NONE,llm,NONE,2
+quantitative software developer,2152,ESCO,llm,satellite software developer,2
+programmatic account manager,1420,ESCO,llm,trainee sales account manager,2
+construction discipline engineer civil,2142,ESCO,llm,construction engineer,2
+instrumentation controls engineer,2152,ESCO,llm,control and instrumentation engineer,2
+lad mis analyst only person with disability,2133,ESCO,llm,water supply quality analyst,2
+program officer,NONE,NONE,llm,NONE,2
+engineering manager embedded,NONE,NONE,llm,NONE,2
+vice president of sales,NONE,NONE,llm,NONE,2
+digital network exploitation analyst all levels,NONE,NONE,llm,NONE,2
+multimedia designer,2513,ESCO,llm,developer multimedia,2
+financial analyst only person with disability,13-2051.00,ONET,llm,financial and investment analysts,2
+cybersecurity detection and response analyst,2529,ESCO,llm,cybersecurity impact analyst,2
+excel specialist,NONE,NONE,llm,NONE,2
+systems administration intermediate,2522,ESCO,llm,analyst infrastructure systems administration,2
+system administration,NONE,NONE,llm,NONE,2
+foia,NONE,NONE,llm,NONE,2
+technical guidance analyst,NONE,NONE,llm,NONE,2
+territory business manager,1213,ESCO,llm,sustainable business manager,2
+software engineer networking,2511,ESCO,llm,software integration engineer,2
+engineers,NONE,NONE,llm,NONE,2
+power systems engineers,2149,ESCO,llm,power systems engineer,2
+machine learning engineers,2511,ESCO,llm,machine learning engineer,2
+air vehicle operator,NONE,NONE,llm,NONE,2
+e billing administrator,NONE,NONE,llm,NONE,2
+field sales,2133,ESCO,llm,field scientist,2
+designers,NONE,NONE,llm,NONE,2
+managing,1212,ESCO,llm,training manager,2
+future opportunities,NONE,NONE,llm,NONE,2
+special education academic coach,NONE,NONE,llm,NONE,2
+selenium automated web tester developer,3119,ESCO,llm,product development automation engineer,2
+dynamic server support,3512,ESCO,llm,analyst software support,2
+internship in equipment engineering department,2144,ESCO,llm,equipment technology engineering adviser,2
+logistics operator,NONE,NONE,llm,NONE,2
+founders,13-1131.00,ONET,llm,fundraisers,2
+game programmer,NONE,NONE,llm,NONE,2
+power trader,NONE,NONE,llm,NONE,2
+python backend engineer,NONE,NONE,llm,NONE,2
+regional sales director,NONE,NONE,llm,NONE,2
+director of store operations future opportunities,NONE,NONE,llm,NONE,2
+forward deployed enablement engineer,NONE,NONE,llm,NONE,2
+crypto production engineer,2141,ESCO,llm,engineer production,2
+environmental subject matter expert,2143,ESCO,llm,environmental sustainability expert,2
+enviornmental subject matter expert,2143,ESCO,llm,environmental sustainability expert,2
+enterprise sales manager,NONE,NONE,llm,NONE,2
+stakeholder engagement specialist,NONE,NONE,llm,NONE,2
+regulatory compliance specialist,2149,ESCO,llm,compliance engineering specialist,2
+statistical analyst,2120,ESCO,llm,statistics analyst,2
+energy project manager,2142,ESCO,llm,engineering project manager,2
+technical writer and documentation specialist,NONE,NONE,llm,NONE,2
+geospatial data technician,NONE,NONE,llm,NONE,2
+quality assurance manager,2149,ESCO,llm,software quality assurance engineer,2
+ar coating technician,NONE,NONE,llm,NONE,2
+qa analysis technician,NONE,NONE,llm,NONE,2
+surface operator,2141,ESCO,llm,surface engineering operator,2
+accounts payables and receivables,NONE,NONE,llm,NONE,2
+inside sales account representative,NONE,NONE,llm,NONE,2
+growth account executive,NONE,NONE,llm,NONE,2
+inference engineer,NONE,NONE,llm,NONE,2
+applied ai,3240,ESCO,llm,ai specialist,2
+join our talent community,2635,ESCO,llm,community liaison worker,2
+co opt marketing and media students,NONE,NONE,llm,NONE,2
+ai planning expert xc,NONE,NONE,llm,NONE,2
+national accounts manager,NONE,NONE,llm,NONE,2
+applied ai architect,NONE,NONE,llm,NONE,2
+google cloud full stack developer,2512,ESCO,llm,full stack cloud software engineer,2
+pre sales consultant,2433,ESCO,llm,consultant sales engineering,2
+gbs c h clinical research operations support,2120,ESCO,llm,analyst operations research,2
+realty project coach,NONE,NONE,llm,NONE,2
+onsite,NONE,NONE,llm,NONE,2
+cqv engineer,2149,ESCO,llm,av engineer,2
+partner m,NONE,NONE,llm,NONE,2
+it infrastructure specialist,2512,ESCO,llm,cloud infrastructure it specialist,2
+infrastructure software engineer,NONE,NONE,llm,NONE,2
+client,NONE,NONE,llm,NONE,2
+computer vision researcher,2511,ESCO,llm,computer vision engineer,2
+data engineer gcp,2511,ESCO,llm,data engineer,2
+implementation consultant rim,NONE,NONE,llm,NONE,2
+testing engineer me,2149,ESCO,llm,test engineer,2
+global supply manager,1324,ESCO,llm,manager supply chain,2
+full stack java developer,NONE,NONE,llm,NONE,2
+manager sap ariba,1324,ESCO,llm,manager supply chain,2
+quant researcher,2149,ESCO,llm,engineer researcher,2
+general counsel,NONE,NONE,llm,NONE,2
+servicenow business analyst,2511,ESCO,llm,ict business analyst,2
+walmart virtual hiring event,NONE,NONE,llm,NONE,2
+r d pcb layout development engineer,NONE,NONE,llm,NONE,2
+crm specialist,NONE,NONE,llm,NONE,2
+erp leads,NONE,NONE,llm,NONE,2
+applied scientist,2511,ESCO,llm,it scientist,2
+mechanical assembly technician,2151,ESCO,llm,electromechanical assembly engineer,2
+bilingual dealership account manager,NONE,NONE,llm,NONE,2
+structures engineer,3115,ESCO,llm,structure engineer,2
+cloud software architect,2512,ESCO,llm,software architect,2
+client account manager,NONE,NONE,llm,NONE,2
+founding ai engineer,NONE,NONE,llm,NONE,2
+gl accountant,2411,ESCO,llm,accounts analyst,2
+mechanical engineering,2144,ESCO,llm,engineer mechanical,2
+strategic partner manager,NONE,NONE,llm,NONE,2
+service delivery manager,NONE,NONE,llm,NONE,2
+full mbr modeler,NONE,NONE,llm,NONE,2
+bim modeler,NONE,NONE,llm,NONE,2
+life sciences computer system validation engineer,2512,ESCO,llm,engineer computer systems,2
+frontend software developer,2512,ESCO,llm,software developer,2
+java technical,NONE,NONE,llm,NONE,2
+java software architect,2512,ESCO,llm,software architect,2
+ui engineer,NONE,NONE,llm,NONE,2
+behavioral psychology specialist,2632,ESCO,llm,behavioural scientist,2
+management employee relations specialist,NONE,NONE,llm,NONE,2
+fullstack,NONE,NONE,llm,NONE,2
+systems reliability engineer,2149,ESCO,llm,reliability engineer,2
+data entry specialist,4131,ESCO,llm,data entry typist,2
+strategic partnerships,NONE,NONE,llm,NONE,2
+specialist field engineer,NONE,NONE,llm,NONE,2
+manufacturing test technician,NONE,NONE,llm,NONE,2
+ai developer,2514,ESCO,llm,app developer,2
+partner success manager,1420,ESCO,llm,retail sales manager,2
+data center operations technician,3511,ESCO,llm,data center operator,2
+servicenow technical,NONE,NONE,llm,NONE,2
+operation manager,1324,ESCO,llm,manager mail operations,2
+client account representative,NONE,NONE,llm,NONE,2
+founding technical recruiter,NONE,NONE,llm,NONE,2
+fp a analyst,2413,ESCO,llm,m a analyst,2
+project,3112,ESCO,llm,project aide,2
+customer service coordinator,3341,ESCO,llm,customer service centre analyst,2
+stem fellow,2511,ESCO,llm,system developer,2
+data center technician,3115,ESCO,llm,data collection technician,2
+group accountant,NONE,NONE,llm,NONE,2
+database reliability engineer,2149,ESCO,llm,reliability engineer,2
+automation equipment development engineer,3119,ESCO,llm,product development automation engineer,2
+academic achievement keynote,NONE,NONE,llm,NONE,2
+team building keynote,NONE,NONE,llm,NONE,2
+sports,3422,ISCO,llm,trainer sports,2
+motivational keynote,NONE,NONE,llm,NONE,2
+consultant in transport,2142,ESCO,llm,transportation engineering consultant,2
+case manager,NONE,NONE,llm,NONE,2
+medical operations,NONE,NONE,llm,NONE,2
+support engineer,3512,ESCO,llm,engineer desktop support,2
+ai architect,2521,ESCO,llm,data architect,2
+rf,NONE,NONE,llm,NONE,2
+mdm technical architect,2521,ESCO,llm,data architect,2
+software reverse engineer,2512,ESCO,llm,engineer software,2
+data entry,NONE,NONE,llm,NONE,2
+pm,NONE,NONE,llm,NONE,2
+web full stack developer,2513,ESCO,llm,developer web software,2
+sales service,NONE,NONE,llm,NONE,2
+san storage administrator,2521,ESCO,llm,administrator data,2
+product quality engineer,2149,ESCO,llm,quality engineer,2
+strategic development program at luxury showroom,NONE,NONE,llm,NONE,2
+talent sourcer,4132,ESCO,llm,clerk data entry,2
+virtual assistant,NONE,NONE,llm,NONE,2
+medical fellow,NONE,NONE,llm,NONE,2
+global program manager,NONE,NONE,llm,NONE,2
