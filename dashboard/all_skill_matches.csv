@@ -1,0 +1,325 @@
+skill_clean,framework,code,method,mapped_label,mentions
+accounting,ESCO,http://data.europa.eu/esco/skill/ecc18804-a466-40d9-98b4-fba5cd67dd4b,exact,accounting,710
+airtable,ONET,2.E.6.f,exact,airtable,5
+amazon dynamodb,ONET,2.E.6.d,exact,amazon dynamodb,334
+android,ESCO,http://data.europa.eu/esco/skill/d8829a1d-dbde-435b-b921-29d6462f35c9,exact,android,679
+angular,ESCO,http://data.europa.eu/esco/skill/1ffac4ac-fda7-407d-8ed1-ca8f4a8dc146,exact,angular,317
+ansible,ESCO,http://data.europa.eu/esco/skill/6f8a40d6-f9ce-43ec-a72f-d4213a53f3ed,exact,ansible,303
+apl,ESCO,http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e,exact,apl,5
+asana,"ESCO, ONET","2.E.16.i, http://data.europa.eu/esco/skill/580660a6-5d3a-421d-a54f-d85b706c2b2f",exact,asana,11
+asp.net,ESCO,http://data.europa.eu/esco/skill/56a7f561-1d55-43c9-9cd7-36a0a9bc6c50,exact,asp.net,25
+assembly,ESCO,http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3,exact,assembly,41
+bash,"ESCO, ONET","2.E.13.c, http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",exact,bash,1363
+bigquery,ONET,2.E.6.f,exact,bigquery,1163
+blockchain,ESCO,"http://data.europa.eu/esco/skill/14062e1c-6540-4cb6-b343-ad419e3d10ac, http://data.europa.eu/esco/skill/afa14e38-5973-4cce-a077-f796c1ced2cc",exact,blockchain,286
+c,ONET,2.E.7.b,exact,c,1878
+c#,"ESCO, ONET","2.E.7.e, http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",exact,c#,646
+c++,"ESCO, ONET","2.E.7.e, http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f",exact,c++,3027
+chef,ONET,2.E.7.a,exact,chef,88
+cobol,ESCO,http://data.europa.eu/esco/skill/def007fa-5fed-4a5f-91a2-b0d7e3db1be1,exact,cobol,14
+communication,ESCO,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7,exact,communication,2935
+computer vision,ESCO,http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669,exact,computer vision,306
+confluence,ESCO,http://data.europa.eu/esco/skill/580660a6-5d3a-421d-a54f-d85b706c2b2f,exact,confluence,170
+crm,ESCO,http://data.europa.eu/esco/skill/dc9a236c-c640-43c3-812f-269403591edb,exact,crm,946
+css,ESCO,"http://data.europa.eu/esco/skill/c2999f0c-eb37-4cdf-b9b0-82107b628794, http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777",exact,css,135
+data engineering,ESCO,http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639,exact,data engineering,571
+data science,ESCO,http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01,exact,data science,575
+db2,ESCO,http://data.europa.eu/esco/skill/3cee858e-79e8-4a4b-b99f-93c7f735d58b,exact,db2,93
+deep learning,ESCO,http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080,exact,deep learning,1708
+devops,ESCO,http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4,exact,devops,719
+django,ONET,2.E.7.h,exact,django,153
+docker,ONET,2.E.10.a,exact,docker,4114
+drupal,"ESCO, ONET","2.E.7.h, http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",exact,drupal,2
+elasticsearch,ONET,2.E.6.d,exact,elasticsearch,352
+erlang,ESCO,http://data.europa.eu/esco/skill/034c29fa-c3ba-45ea-b8f3-bf8e3705e386,exact,erlang,2
+etl,ESCO,http://data.europa.eu/esco/skill/9d0d89be-bffa-4393-b6f6-8d05bea49051,exact,etl,169
+figma,ONET,2.E.7.d,exact,figma,195
+financial analysis,ESCO,http://data.europa.eu/esco/skill/99571e68-801f-49af-a897-5f75996642e1,exact,financial analysis,175
+flask,ONET,2.E.7.b,exact,flask,129
+fortran,"ESCO, ONET","2.E.7.e, http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",exact,fortran,5
+gdpr,ESCO,http://data.europa.eu/esco/skill/d3e9b00a-0891-4fa8-836d-8240ec3d2758,exact,gdpr,143
+gis,ESCO,http://data.europa.eu/esco/skill/377861af-f966-4c87-a2db-7e99904312b9,exact,gis,177
+git,"ESCO, ONET","2.E.5.c, http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",exact,git,1556
+github,ONET,2.E.10.a,exact,github,347
+gitlab,ONET,2.E.10.a,exact,gitlab,161
+go,ONET,2.E.7.b,exact,go,1031
+graphql,ONET,2.E.6.f,exact,graphql,185
+groovy,ESCO,http://data.europa.eu/esco/skill/52cf3037-ab53-4806-85ed-7fd21ea7f6a1,exact,groovy,18
+hadoop,ESCO,http://data.europa.eu/esco/skill/e46291c7-52b9-4174-bd59-178884861038,exact,hadoop,1356
+haskell,"ESCO, ONET","2.E.7.b, http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02",exact,haskell,3
+hugging face,ONET,2.E.7.b,exact,hugging face,3196
+ibm cloud,ONET,2.E.6.f,exact,ibm cloud,20
+ibm db2,"ESCO, ONET","2.E.6.f, http://data.europa.eu/esco/skill/3cee858e-79e8-4a4b-b99f-93c7f735d58b",exact,ibm db2,231
+ios,ESCO,http://data.europa.eu/esco/skill/ce26e71f-2d47-474e-89b6-7920931ac4fc,exact,ios,597
+java,ESCO,http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389,exact,java,6970
+javascript,"ESCO, ONET","2.E.7.h, http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",exact,javascript,3084
+jenkins,ESCO,http://data.europa.eu/esco/skill/f47a1998-0beb-43be-9f46-380aa4d183da,exact,jenkins,329
+jquery,ONET,"2.E.7.e, 2.E.7.h",exact,jquery,30
+julia,ONET,2.E.7.b,exact,julia,180
+keras,"ESCO, ONET","2.E.13.c, http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669",exact,keras,3783
+kotlin,ONET,2.E.7.b,exact,kotlin,301
+kubernetes,ONET,2.E.10.a,exact,kubernetes,4168
+langchain,ONET,2.E.7.e,exact,langchain,2510
+linux,ONET,2.E.13.c,exact,linux,1284
+lisp,ESCO,http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220,exact,lisp,1
+lua,"ESCO, ONET","2.E.7.e, http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",exact,lua,4
+machine learning,ESCO,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43,exact,machine learning,2762
+mariadb,ONET,2.E.6.d,exact,mariadb,13
+matlab,ESCO,"http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669, http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",exact,matlab,1311
+microsoft teams,ONET,"2.E.1.e, 2.E.7.c",exact,microsoft teams,12
+microstrategy,ONET,2.E.6.m,exact,microstrategy,208
+mongodb,ONET,2.E.6.d,exact,mongodb,1444
+ms access,ESCO,http://data.europa.eu/esco/skill/3d03c40c-1b83-4793-8902-2523f40af59e,exact,ms access,53
+mysql,"ESCO, ONET","2.E.6.d, 2.E.6.f, http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",exact,mysql,2862
+neo4j,ONET,2.E.6.f,exact,neo4j,68
+nlp,ESCO,http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a,exact,nlp,148
+node.js,ONET,2.E.7.h,exact,node.js,460
+nosql,"ESCO, ONET","2.E.6.d, http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",exact,nosql,1397
+numpy,ONET,2.E.6.f,exact,numpy,451
+objective c,"ESCO, ONET","2.E.7.e, http://data.europa.eu/esco/skill/9973a5a2-7822-4161-99e9-95c781eb63f8",exact,objective c,2
+opencv,ESCO,"http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97, http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669",exact,opencv,2524
+openstack,ONET,2.E.11.e,exact,openstack,13
+pandas,ONET,2.E.6.f,exact,pandas,728
+perl,"ESCO, ONET","2.E.7.e, http://data.europa.eu/esco/skill/401eb8d8-6daa-4f8b-90ad-60afc71eb4f8",exact,perl,109
+php,"ESCO, ONET","2.E.7.h, http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",exact,php,196
+postgres,ESCO,http://data.europa.eu/esco/skill/a8d07b5a-c1a1-42c6-9d53-db9c7a2ca996,exact,postgres,57
+postgresql,"ESCO, ONET","2.E.6.j, http://data.europa.eu/esco/skill/a8d07b5a-c1a1-42c6-9d53-db9c7a2ca996",exact,postgresql,1834
+powershell,ESCO,http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97,exact,powershell,153
+project management,ESCO,"http://data.europa.eu/esco/skill/4ca91852-c534-4b98-ab1c-59a126534c88, http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",exact,project management,3186
+puppet,"ESCO, ONET","2.E.7.a, http://data.europa.eu/esco/skill/6417a4cc-6f61-4459-a114-761a7fa0279d",exact,puppet,49
+pyspark,ONET,2.E.6.f,exact,pyspark,581
+python,"ESCO, ONET","2.E.7.e, http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",exact,python,23111
+pytorch,ONET,2.E.6.f,exact,pytorch,6004
+r,"ESCO, ONET","2.E.7.e, http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",exact,r,8298
+rabbitmq,ONET,2.E.7.e,exact,rabbitmq,81
+react,ONET,2.E.7.h,exact,react,931
+react native,ONET,2.E.7.h,exact,react native,110
+redis,ONET,2.E.6.d,exact,redis,319
+robotics,ESCO,http://data.europa.eu/esco/skill/e87ec79a-c9ff-46f5-84fa-7a0f394cdf40,exact,robotics,497
+ruby,"ESCO, ONET","2.E.7.b, http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",exact,ruby,267
+ruby on rails,ONET,2.E.7.h,exact,ruby on rails,12
+sap,ESCO,http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4,exact,sap,1049
+sap analytics cloud,ESCO,http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4,exact,sap analytics cloud,152
+sas,ONET,2.E.9.d,exact,sas,1403
+sass,ESCO,http://data.europa.eu/esco/skill/1110c92f-3059-445a-9436-0f4200d365f5,exact,sass,3
+scala,"ESCO, ONET","2.E.7.e, http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6",exact,scala,3749
+scikit learn,ONET,2.E.7.b,exact,scikit learn,9013
+selenium,"ESCO, ONET","2.E.7.f, http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",exact,selenium,52
+sem,ESCO,http://data.europa.eu/esco/skill/eda4d727-4374-49af-ace4-118c7c906835,exact,sem,82
+shiny,ONET,2.E.7.e,exact,shiny,718
+slack,ONET,2.E.16.i,exact,slack,40
+smartsheet,ONET,2.E.1.e,exact,smartsheet,14
+snowflake,ONET,2.E.6.g,exact,snowflake,1903
+solidity,"ESCO, ONET","2.E.7.b, http://data.europa.eu/esco/skill/605399ce-4736-4b41-b41e-92ecf2139454",exact,solidity,3
+spark,ESCO,http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f,exact,spark,5098
+sql,ESCO,"http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742, http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",exact,sql,20272
+sql server,ESCO,http://data.europa.eu/esco/skill/c062bab3-3ea0-4291-9220-a2d8fef4bead,exact,sql server,2035
+sqlite,ONET,2.E.6.d,exact,sqlite,1040
+ssis,ESCO,http://data.europa.eu/esco/skill/6f7512ab-d46d-402a-8c30-a8878d7c1f88,exact,ssis,411
+statistics,ESCO,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833,exact,statistics,538
+swift,"ESCO, ONET","2.E.7.e, http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a",exact,swift,392
+tableau,ONET,2.E.6.m,exact,tableau,5580
+tensorflow,"ESCO, ONET","2.E.9.d, http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669",exact,tensorflow,7427
+tibco spotfire,ONET,2.E.6.m,exact,tibco spotfire,68
+trello,ESCO,http://data.europa.eu/esco/skill/fdf15b35-9028-4acb-bfd2-43f00a015cd9,exact,trello,13
+typescript,"ESCO, ONET","2.E.7.e, http://data.europa.eu/esco/skill/867137fb-ff1b-4ca3-99f3-cb6969aa2c68",exact,typescript,775
+ubuntu,ONET,2.E.13.c,exact,ubuntu,25
+unity,ESCO,http://data.europa.eu/esco/skill/d1a86399-24d8-415f-98b9-e8cbb6b04a26,exact,unity,135
+unix,ONET,2.E.13.c,exact,unix,240
+vb.net,ESCO,http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413,exact,vb.net,12
+visual basic,ESCO,"http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413, http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",exact,visual basic,51
+vmware,ONET,2.E.6.b,exact,vmware,56
+vue.js,ONET,2.E.7.h,exact,vue.js,12
+webex,ESCO,http://data.europa.eu/esco/skill/580660a6-5d3a-421d-a54f-d85b706c2b2f,exact,webex,5
+wrike,ONET,2.E.16.i,exact,wrike,2
+xgboost,ONET,2.E.7.b,exact,xgboost,2837
+zoom,ONET,2.E.16.b,exact,zoom,26
+aws,DICT,aws,dict,Amazon Web Services,9272
+azure,NONE,NONE,llm,NONE,7550
+matplotlib,NONE,NONE,llm,NONE,7450
+excel,ESCO,http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be,llm,ms excel,7305
+gcp,DICT,gcp,dict,Google Cloud Platform,6406
+seaborn,NONE,NONE,llm,NONE,5456
+power bi,ESCO,http://data.europa.eu/esco/skill/f7e051fc-8f7b-45b3-8911-8ffb9b951f4a,llm,pow,4870
+llms,ONET,2.E.8.b,llm,sumtotal systems totallms,3483
+plotly,NONE,NONE,llm,NONE,2872
+prompt engineering,NONE,NONE,llm,NONE,2453
+mlops,DICT,mlops,dict,Machine Learning Operations,2448
+ggplot2,NONE,NONE,llm,NONE,2386
+recruiting,NONE,NONE,llm,NONE,2351
+sales,NONE,NONE,llm,NONE,2190
+product management,NONE,NONE,llm,NONE,1597
+oracle,NONE,NONE,llm,NONE,1525
+cloud,NONE,NONE,llm,NONE,1442
+lightgbm,ESCO,http://data.europa.eu/esco/skill/835ddbb1-7dbb-4b6d-9c84-2dc300488857,llm,light auxiliary gas jets,1342
+kafka,ONET,2.E.7.b,llm,apache kafka,1183
+ci/cd,NONE,NONE,llm,NONE,1170
+customer success,NONE,NONE,llm,NONE,1153
+redshift,NONE,NONE,llm,NONE,1128
+databricks,NONE,NONE,llm,NONE,1120
+ui/ux,ESCO,http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812,llm,ux,985
+airflow,ESCO,http://data.europa.eu/esco/skill/77592603-505b-4096-97dd-d0def6bd7601,llm,airflow analysis,941
+word,ESCO,http://data.europa.eu/esco/skill/81633a44-f1db-4a01-a940-804c6905e330,llm,use word processing software,897
+powerpoint,ESCO,http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb,llm,microsoft office powerpoint,841
+salesforce,ONET,2.E.6.c,llm,salesforce software,830
+looker,NONE,NONE,llm,NONE,799
+qa testing,NONE,NONE,llm,NONE,799
+terraform,ONET,2.E.7.a,llm,ibm terraform,794
+catboost,NONE,NONE,llm,NONE,761
+qlik,ESCO,http://data.europa.eu/esco/skill/97bdd757-29d4-4126-92a6-07608825aa3b,llm,qlikview expressor,686
+google data studio,NONE,NONE,llm,NONE,587
+d3.js,NONE,NONE,llm,NONE,576
+bokeh,NONE,NONE,llm,NONE,569
+flow,ESCO,http://data.europa.eu/esco/skill/2957b42e-53bb-472f-96fd-f55d06a8ae46,llm,monitor nitroglycerin flow,548
+geoplotlib,NONE,NONE,llm,NONE,544
+caret,NONE,NONE,llm,NONE,532
+microsoft azure sql database,NONE,NONE,llm,NONE,529
+pytorch lightning,ONET,2.E.6.f,llm,pytorch,527
+spss,NONE,NONE,llm,NONE,523
+jira,NONE,NONE,llm,NONE,510
+alteryx,NONE,NONE,llm,NONE,501
+prophet,ONET,2.E.6.c,llm,avidian technologies prophet,471
+security,NONE,NONE,llm,NONE,468
+spring,NONE,NONE,llm,NONE,440
+amazon rds,NONE,NONE,llm,NONE,426
+fast.ai,NONE,NONE,llm,NONE,413
+html/css,NONE,NONE,llm,NONE,402
+google cloud sql,NONE,NONE,llm,NONE,378
+leaflet / folium,NONE,NONE,llm,NONE,367
+vba,DICT,vba,dict,Visual Basic for Applications,359
+ibm cloud / red hat,NONE,NONE,llm,NONE,357
+tidymodels,NONE,NONE,llm,NONE,349
+microservices,ONET,2.E.10.a,llm,microservices architecture,347
+shell,NONE,NONE,llm,NONE,344
+rust,NONE,NONE,llm,NONE,317
+oracle cloud,ONET,2.E.11.e,llm,oracle cloud software,295
+outlook,NONE,NONE,llm,NONE,291
+h2o 3,NONE,NONE,llm,NONE,290
+marketing,NONE,NONE,llm,NONE,278
+rest api,NONE,NONE,llm,NONE,269
+tableau crm,NONE,NONE,llm,NONE,263
+ssrs,DICT,ssrs,dict,SQL Server Reporting Services,258
+embedded,ESCO,http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d,llm,embedded systems,256
+spreadsheet,ESCO,http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be,llm,use spreadsheets software,254
+sharepoint,ONET,2.E.5.b,llm,microsoft sharepoint,250
+microsoft azure cosmos db,NONE,NONE,llm,NONE,249
+vmware cloud,ESCO,http://data.europa.eu/esco/skill/11430d93-c835-48ed-8e70-285fa69c9ae6,llm,design cloud architecture,248
+windows,NONE,NONE,llm,NONE,238
+google cloud firestore,NONE,NONE,llm,NONE,236
+google cloud bigtable,NONE,NONE,llm,NONE,234
+hubspot,ONET,2.E.1.l,llm,hubspot software,230
+dax,DICT,dax,dict,Data Analysis Expressions,219
+cassandra,ONET,2.E.6.d,llm,apache cassandra,211
+amazon aurora,NONE,NONE,llm,NONE,210
+microsoft azure synapse,NONE,NONE,llm,NONE,194
+t sql,ESCO,http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742,llm,sql,194
+hardware,ESCO,http://data.europa.eu/esco/skill/113d2de3-2150-4949-b91d-abd3d39b370b,llm,demonstrate use of hardware,184
+html,ESCO,http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26,llm,use html,184
+sap cloud,ESCO,http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4,llm,sap,180
+amazon quicksight,NONE,NONE,llm,NONE,177
+salesforce cloud,NONE,NONE,llm,NONE,176
+altair,NONE,NONE,llm,NONE,175
+alibaba cloud,NONE,NONE,llm,NONE,174
+jupyter,DICT,jupyter,dict,jupyter notebook,173
+vue,ESCO,http://data.europa.eu/esco/skill/fdf15b35-9028-4acb-bfd2-43f00a015cd9,llm,vueminder calendar lite,162
+visio,NONE,NONE,llm,NONE,159
+mxnet,ONET,2.E.9.g,llm,apache mxnet,149
+cognos,ESCO,http://data.europa.eu/esco/skill/14fdac88-6d4a-4e47-9df5-02c6d1e86fdd,llm,cognos data manager,145
+seo,ESCO,http://data.europa.eu/esco/skill/05e5e14f-ffa6-4106-b311-c6335ccc2bd2,llm,solar energy,139
+serverless,NONE,NONE,llm,NONE,134
+next.js,NONE,NONE,llm,NONE,130
+dynamodb,ONET,2.E.6.d,llm,amazon dynamodb,130
+express,ESCO,http://data.europa.eu/esco/skill/638313e7-2bb6-49b7-a510-22a0ccc4c341,llm,express yourself physically,129
+google cloud spanner,NONE,NONE,llm,NONE,126
+tencent cloud,NONE,NONE,llm,NONE,118
+jax,NONE,NONE,llm,NONE,115
+pl/sql,DICT,pl/sql,dict,Procedural Language/SQL,114
+legal,NONE,NONE,llm,NONE,112
+dbt,DICT,dbt,dict,Data Build Tool,105
+splunk,NONE,NONE,llm,NONE,104
+sheets,ESCO,http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be,llm,use spreadsheets software,100
+bitbucket,ONET,2.E.10.a,llm,atlassian bitbucket,96
+mongo,NONE,NONE,llm,NONE,94
+fastapi,NONE,NONE,llm,NONE,93
+grpc,NONE,NONE,llm,NONE,89
+golang,ONET,2.E.7.b,llm,go,73
+atlassian,NONE,NONE,llm,NONE,71
+crystal,ESCO,http://data.europa.eu/esco/skill/6c8e99ae-f429-4b6f-b243-6b404fa5f49b,llm,slice crystals into wafers,68
+aurora,NONE,NONE,llm,NONE,64
+sisense,NONE,NONE,llm,NONE,58
+no sql,NONE,NONE,llm,NONE,57
+domo,ESCO,http://data.europa.eu/esco/skill/d81b58ba-52e4-45fa-9f7c-f59b87fa6041,llm,domotic systems,52
+nltk,DICT,nltk,dict,Natural Language Toolkit,50
+notion,NONE,NONE,llm,NONE,50
+yarn,NONE,NONE,llm,NONE,39
+terminal,NONE,NONE,llm,NONE,38
+thoughtspot,NONE,NONE,llm,NONE,35
+unify,ESCO,http://data.europa.eu/esco/skill/5c99d21a-9d02-4638-9b52-a6ba840dcb0a,llm,unify financial information,35
+node,ESCO,http://data.europa.eu/esco/skill/9f817e84-da26-4e80-a3ea-0019045614ee,llm,publicity code,33
+phoenix,ONET,2.E.5.b,llm,doublebridge rosetta phoenix ectd viewer,33
+flutter,NONE,NONE,llm,NONE,28
+svn,ONET,2.E.5.c,llm,apache subversion svn,21
+svn,ONET,2.E.7.b,llm,apache subversion svn,21
+planner,ONET,2.E.6.f,llm,xplanner,20
+firebase,NONE,NONE,llm,NONE,18
+theano,NONE,NONE,llm,NONE,17
+rshiny,NONE,NONE,llm,NONE,17
+macos,ONET,2.E.13.c,llm,apple macos,17
+mssql,NONE,NONE,llm,NONE,17
+centos,NONE,NONE,llm,NONE,15
+redhat,NONE,NONE,llm,NONE,14
+dplyr,NONE,NONE,llm,NONE,13
+watson,NONE,NONE,llm,NONE,12
+datarobot,NONE,NONE,llm,NONE,10
+couchbase,NONE,NONE,llm,NONE,10
+unix/linux,NONE,NONE,llm,NONE,10
+wire,NONE,NONE,llm,NONE,9
+digitalocean,NONE,NONE,llm,NONE,9
+react.js,NONE,NONE,llm,NONE,9
+laravel,NONE,NONE,llm,NONE,8
+clojure,NONE,NONE,llm,NONE,8
+colocation,NONE,NONE,llm,NONE,7
+tidyverse,NONE,NONE,llm,NONE,7
+npm,NONE,NONE,llm,NONE,6
+elixir,ESCO,http://data.europa.eu/esco/skill/9d0d89be-bffa-4393-b6f6-8d05bea49051,llm,elixir repertoire for data etl,6
+debian,NONE,NONE,llm,NONE,6
+heroku,NONE,NONE,llm,NONE,5
+firestore,NONE,NONE,llm,NONE,5
+symphony,NONE,NONE,llm,NONE,5
+suse,NONE,NONE,llm,NONE,5
+clickup,NONE,NONE,llm,NONE,4
+pulumi,NONE,NONE,llm,NONE,4
+dart,NONE,NONE,llm,NONE,4
+electron,ESCO,http://data.europa.eu/esco/skill/03305638-bd08-410a-a960-f963ad89cce6,llm,tend electron beam welding machine,4
+monday.com,NONE,NONE,llm,NONE,4
+couchdb,NONE,NONE,llm,NONE,4
+svelte,NONE,NONE,llm,NONE,4
+twilio,NONE,NONE,llm,NONE,4
+codecommit,NONE,NONE,llm,NONE,4
+ringcentral,NONE,NONE,llm,NONE,3
+mlpack,NONE,NONE,llm,NONE,3
+powerpoints,ONET,2.E.4.f,llm,microsoft powerpoint,3
+google chat,ESCO,http://data.europa.eu/esco/skill/fef18610-c8ca-431b-9ca8-d3d0cdffde72,llm,use internet chat,2
+f#,NONE,NONE,llm,NONE,2
+qt,NONE,NONE,llm,NONE,2
+delphi,NONE,NONE,llm,NONE,2
+ovh,NONE,NONE,llm,NONE,2
+asp.net core,ESCO,http://data.europa.eu/esco/skill/0d35b50a-c92d-4482-b650-2477e0dacc38,llm,position core workpieces,2
+mlr,NONE,NONE,llm,NONE,2
+unreal,ESCO,http://data.europa.eu/esco/skill/b04c4965-4fd7-4dfa-a8d4-0cec5c5f5d0c,llm,unreal engine,2
+linux/unix,NONE,NONE,llm,NONE,2
+cordova,NONE,NONE,llm,NONE,1
+gatsby,NONE,NONE,llm,NONE,1
+angular.js,ESCO,http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97,llm,angularjs,1
+symfony,NONE,NONE,llm,NONE,1
+microsoft lists,NONE,NONE,llm,NONE,1
+fastify,NONE,NONE,llm,NONE,1
+arch,NONE,NONE,llm,NONE,1
+play framework,NONE,NONE,llm,NONE,1
+homebrew,NONE,NONE,llm,NONE,1
+xamarin,NONE,NONE,llm,NONE,1
+wsl,NONE,NONE,llm,NONE,1
+ionic,NONE,NONE,llm,NONE,1
+js,NONE,NONE,llm,NONE,1
+c/c++,ESCO,http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f,llm,c++,1
+tidyr,NONE,NONE,llm,NONE,1
