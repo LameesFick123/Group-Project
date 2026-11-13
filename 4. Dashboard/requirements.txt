@@ -1,7 +1,0 @@
-streamlit>=1.50
-pandas>=2.0
-numpy>=1.24
-plotly>=5.20
-prophet>=1.1.5
-scikit-learn>=1.3
-requests>=2.31
